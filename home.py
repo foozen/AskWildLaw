@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 import openai
 
 from langchain_community.vectorstores import FAISS
@@ -10,8 +10,9 @@ from langchain.chat_models import ChatOpenAI
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
 
 # Load environment variables
-load_dotenv()
-openai.api_key = os.getenv("OPENAI_API_KEY")
+# load_dotenv()
+import streamlit as st
+openai.api_key = st.secrets["OPENAI_API_KEY"]
 
 # Load vectorstore
 vectorstore = FAISS.load_local(
