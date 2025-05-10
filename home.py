@@ -2,6 +2,7 @@ import streamlit as st
 import os
 import zipfile
 import openai
+st.info("✅ home.py is using prebuilt vectorstore only.")
 
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OpenAIEmbeddings
