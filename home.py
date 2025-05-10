@@ -2,6 +2,13 @@ import streamlit as st
 import os
 # from dotenv import load_dotenv
 import openai
+import zipfile
+import os
+
+# Unzip vectorstore if not already extracted
+if not os.path.exists("wildlaw_vectorstore"):
+    with zipfile.ZipFile("wildlaw_vectorstore.zip", "r") as zip_ref:
+        zip_ref.extractall("wildlaw_vectorstore")
 
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OpenAIEmbeddings
