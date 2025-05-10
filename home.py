@@ -9,7 +9,7 @@ from langchain.chains import RetrievalQA
 from langchain.chat_models import ChatOpenAI
 
 # ─────────────────────────────────────
-# 1. Unzip and load prebuilt vectorstore
+# 1. Load vectorstore (prebuilt only)
 # ─────────────────────────────────────
 if not os.path.exists("wildlaw_vectorstore"):
     with zipfile.ZipFile("wildlaw_vectorstore.zip", "r") as zip_ref:
@@ -49,7 +49,6 @@ with st.expander("🔐 Log in to your account"):
     if access_level != "Select...":
         st.session_state["tier"] = access_level.lower().replace(" ", "_")
 
-# Page links
 st.markdown(
     "<small>New here? <a href='./Product' target='_self'>Learn what Ask WildLaw does</a> | "
     "<a href='./Pricing' target='_self'>View plans and pricing</a></small>",
@@ -97,11 +96,9 @@ if st.button("Submit your question"):
                 result = qa_chain(system_prompt)
                 st.session_state["submitted"] = True
 
-                # Answer section
                 st.markdown("### 🧾 Answer:")
                 st.markdown(result["result"])
 
-                # Feedback buttons
                 st.markdown("### 👍 Was this answer helpful?")
                 col1, col2 = st.columns(2)
                 with col1:
@@ -111,7 +108,6 @@ if st.button("Submit your question"):
                     if st.button("👎 No"):
                         st.warning("Thanks — we’ll use this to improve future answers.")
 
-                # Sources
                 st.markdown("### 📚 Sources used:")
                 used_sources = set()
                 for doc in result["source_documents"]:
