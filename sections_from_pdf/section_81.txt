@@ -1,0 +1,111 @@
+81
+Status: Point in time view as at 25/05/2020. This version of this Act contains provisions that are prospective.
+Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk
+editorial team to Wildlife and Countryside Act 1981. Any changes that have already been made by the
+team appear in the content and are referenced with annotations. (See end of Document for details)
+Textual Amendments
+F799 Ss. 18A, 18B inserted (S.) (1.1.2012) by Wildlife and Natural Environment (Scotland) Act 2011 (asp
+6), ss. 24, 43(1) (with s. 41(1)); S.S.I. 2011/433, art. 2(1)(e)
+[F13418B Group 1 offences and licences: power to enter premises E+W
+(1) A wildlife inspector may, at any reasonable time, enter and inspect any premises—
+(a)
+for the purpose of ascertaining whether a Group 1 offence is being or has been
+committed;
+(b)
+for the purpose of—
+(i) verifying any statement or representation made, or document
+or information supplied, by an occupier in connection with an
+application for, or the holding of, a Group 1 licence, or
+(ii) ascertaining whether any condition to which a Group 1 licence was
+subject has been complied with.
+(2) In this Part—
+“Group 1 offence” means an offence under section 1, 5, 9(1), (2) or (4),
+11, 13(1) or 14ZA, and
+“Group 1 licence” means a licence authorising anything which would
+otherwise be a Group 1 offence.
+(3) Nothing in this section confers power to enter a dwelling.]
+Extent Information
+E15
+This version of this provision extends to England and Wales only; a separate version has been created
+for Scotland only
+Textual Amendments
+F134 Ss. 18A-18F inserted (E.W.) (31.5.2006) by Natural Environment and Rural Communities Act 2006
+(c. 16), ss. 52, 107, Sch. 5 para. 1; S.I. 2006/1382, art. 2
+Modifications etc. (not altering text)
+C12
+S. 18B applied (with modifications) (31.5.2006) by Natural Environment and Rural Communities Act
+2006 (c. 16), ss. 52, 107, Sch. 5 para. 7-11; S.I. 2006/1382, art. 2
+[F79918B Liability where securing services through another S
+(1) This subsection applies where, on or in relation to any land—
+(a)
+a person (A) commits a relevant offence;
+(b)
+at the time the offence is committed, A is providing relevant services for a
+person (B); and
+(c)
+B—
+(i) has a legal right to kill or take a wild bird on or over that land; or
+(ii) manages or controls the exercise of any such right.
+(2) Where subsection (1) applies, B is also guilty of the offence and liable to be proceeded
+against and punished accordingly.
+
+82
+Wildlife and Countryside Act 1981 (c. 69)
+Part I – Wildlife
+Document Generated: 2020-12-04
+Status: Point in time view as at 25/05/2020. This version of this Act contains provisions that are prospective.
+Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk
+editorial team to Wildlife and Countryside Act 1981. Any changes that have already been made by the
+team appear in the content and are referenced with annotations. (See end of Document for details)
+(3) In any proceedings under subsection (2), it is a defence for B to show—
+(a)
+that B did not know that the offence was being committed by A; and
+(b)
+that B took all reasonable steps and exercised all due diligence to prevent the
+offence being committed.
+(4) Proceedings may be taken against B in respect of the offence whether or not
+proceedings are also taken against A.
+(5) For the purposes of subsection (1)(b), A is providing “relevant services” for B—
+(a)
+if A manages or controls any of the following—
+(i) the operation or activity of killing or taking any wild birds on or over
+that land;
+(ii) the habitat of any such birds on that land;
+(iii) the presence on or over that land of predators of any such birds;
+(iv) the release of birds from captivity for the purpose of their being killed
+or taken on or over that land; and
+(b)
+whether A is providing the services—
+(i) by arrangement between A and B; or
+(ii) by arrangement with or as employee or agent of any other person (C)
+who is providing or securing the provision of relevant services for B.
+(6) For the purposes of subsection (5)(b)(ii), C is providing or securing the provision of
+relevant services for B if C manages or controls any of the things mentioned in sub-
+paragraphs (i) to (iv) of subsection (5)(a).]
+Extent Information
+E45
+This version of this provision extends to Scotland only; a separate version has been created for
+England and Wales only
+Textual Amendments
+F799 Ss. 18A, 18B inserted (S.) (1.1.2012) by Wildlife and Natural Environment (Scotland) Act 2011 (asp
+6), ss. 24, 43(1) (with s. 41(1)); S.S.I. 2011/433, art. 2(1)(e)
+[F13418C Group 1 offences and licences: examining specimens and taking samples
+(1) The powers conferred by this section are exercisable where a wildlife inspector has
+entered any premises for a purpose mentioned in section 18B(1)(a) or (b).
+(2) The inspector, or a veterinary surgeon accompanying him, may—
+(a)
+for any such purpose, examine any specimen, and
+(b)
+subject to subsection (5) and section 18F, take a sample from it.
+(3) “Specimen” means—
+(a)
+any bird, other animal or plant, or
+(b)
+any part of, or anything derived from, a bird, other animal or plant.
+(4) “Sample” means a sample of blood, tissue or other biological material.
+(5) No sample may be taken under subsection (2) from a live bird, other animal or plant
+except for the purpose of establishing its identity or ancestry.
+
+Wildlife and Countryside Act 1981 (c. 69)
+Part I – Wildlife
+Document Generated: 2020-12-04

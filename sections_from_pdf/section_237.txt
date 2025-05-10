@@ -1,0 +1,124 @@
+237
+Status: Point in time view as at 25/05/2020. This version of this Act contains provisions that are prospective.
+Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk
+editorial team to Wildlife and Countryside Act 1981. Any changes that have already been made by the
+team appear in the content and are referenced with annotations. (See end of Document for details)
+Textual Amendments
+F629 Sch. 9A para. 1(2)(a)-(c) substituted for Sch. 9Apara. 1(2)(a)(b) (1.12.2019) by The Invasive Alien
+Species (Enforcement and Permitting) Order 2019 (S.I. 2019/527), art. 1(1), Sch. 4 para. 1(4)(a) (with
+art. 1(2)(4)) (as amended by S.I. 2019/1213, regs. 1, 2(2))
+Definitions relating to species
+2
+(1) “Species” means any kind of animal or plant.
+(2) A species is “invasive” if, uncontrolled, it would be likely to have a significant
+adverse impact on—
+(a)
+biodiversity,
+(b)
+other environmental interests, or
+(c)
+social or economic interests.
+(3) A species is “non-native” if—
+(a)
+it is listed in Part 1 or 2 of Schedule 9, or
+(b)
+in the case of a species of animal, it is a species—
+(i) whose natural range does not include any part of Great Britain, and
+(ii) which has been introduced into Great Britain or is present in Great
+Britain because of other human activity.
+(4) References to a species being “present” on premises include its being present at any
+stage in its life-cycle (for example, as eggs or seeds).
+(5) A species of animal is “no longer normally present in Great Britain” if—
+(a)
+it is a species listed in Part 1B of Schedule 9, or
+(b)
+it is a species—
+(i) whose natural range includes all or any part of Great Britain, and
+(ii) which has ceased to be ordinarily resident in, or a regular visitor to,
+Great Britain in a wild state.
+[
+F630(6)
+The “Union list” means the list of invasive alien species of Union concern adopted by
+the European Commission in accordance with Articles 4(1) and 10(4) of Regulation
+(EU) No 1143/2014 of the European Parliament and of the Council of 22 October
+2014 on the prevention and management of the introduction and spread of invasive
+alien species, as amended from time to time.]
+Textual Amendments
+F630 Sch. 9A para. 2(6) inserted (1.12.2019) by The Invasive Alien Species (Enforcement and Permitting)
+Order 2019 (S.I. 2019/527), art. 1(1), Sch. 4 para. 1(4)(b) (with art. 1(2)(4)) (as amended by S.I.
+2019/1213, regs. 1, 2(2))
+Environmental authorities
+3
+(1) “Environmental authority”, in relation to premises in England, means—
+(a)
+the Secretary of State,
+(b)
+the Environment Agency,
+
+238
+Wildlife and Countryside Act 1981 (c. 69)
+SCHEDULE 9A – Species control agreements and orders (England and Wales)
+Document Generated: 2020-12-04
+Status: Point in time view as at 25/05/2020. This version of this Act contains provisions that are prospective.
+Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk
+editorial team to Wildlife and Countryside Act 1981. Any changes that have already been made by the
+team appear in the content and are referenced with annotations. (See end of Document for details)
+(c)
+Natural England, and
+(d)
+the Forestry Commissioners.
+(2) “Environmental authority”, in relation to premises in Wales, means—
+(a)
+the Welsh Ministers, and
+(b)
+the Natural Resources Body for Wales.
+Owners and dwellings
+4
+(1) “Owner”, in relation to premises consisting of land, means—
+(a)
+a person, other than a mortgagee not in possession, who is for the time being
+entitled to dispose of the fee simple of the land, whether in possession or
+reversion,
+(b)
+a person in possession under a lease, or
+(c)
+a person who for the time being exercises powers of management or control
+over the land.
+(2) “Dwelling” means a building or structure, or part of a building or structure, occupied
+wholly or mainly as a dwelling.
+Operations
+5
+(1) “Species control operations” are operations to do one or more of the following—
+(a)
+eradicate a species from premises;
+(b)
+control a species on premises;
+(c)
+prevent a species from returning to premises.
+(2) References to “carrying out” operations include arranging for operations to be carried
+out.
+PART 2
+SPECIES CONTROL AGREEMENTS
+Making of species control agreements
+6
+(1) An environmental authority may enter into a “species control agreement” with an
+owner of any premises where the authority considers that there is present on the
+premises—
+(a)
+an invasive non-native species, or
+(b)
+a species of animal that is no longer normally present in Great Britain.
+(2) Under a species control agreement the parties agree to the carrying out of species
+control operations.
+(3) Before entering into a species control agreement with an owner, an environmental
+authority must be satisfied that—
+(a)
+the provisions of the agreement are proportionate to the objective to be
+achieved, and
+(b)
+in a case where there is more than one owner, the owner with whom the
+agreement is entered into is the most appropriate one.
+
+Wildlife and Countryside Act 1981 (c. 69)
+SCHEDULE 9A – Species control agreements and orders (England and Wales)
+Document Generated: 2020-12-04

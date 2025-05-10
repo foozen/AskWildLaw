@@ -1,0 +1,117 @@
+151
+Status: Point in time view as at 25/05/2020. This version of this Act contains provisions that are prospective.
+Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk
+editorial team to Wildlife and Countryside Act 1981. Any changes that have already been made by the
+team appear in the content and are referenced with annotations. (See end of Document for details)
+X4[F34437ARamsar sites.
+(1) Where a wetland in Great Britain has been designated under paragraph 1 of article 2 of
+the Ramsar Convention for inclusion in the list of wetlands of international importance
+referred to in that article, the Secretary of State shall—
+(a)
+notify [F345Natural England] if all or part of the wetland is in England;
+(b)
+notify [F346the Natural Resources Body for Wales] if it is in Wales; or
+(c)
+notify both of them if it is partly in England and partly in Wales.
+(2) Subject to subsection (3), upon receipt of a notification under subsection (1), each
+body notified shall, in turn, notify—
+(a)
+the local planning authority in whose area the wetland is situated;
+(b)
+every owner and occupier of any of that wetland; [F347and]
+F348(c)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(d)
+every relevant undertaker (within the meaning of section 4(1) of the M25Water
+Industry Act 1991) and every internal drainage board (within the meaning of
+section 61C(1) of the M26Land Drainage Act 1991) whose works, operations
+or activities may affect the wetland.
+[
+F349(2A)
+Subject to subsection (3), upon receipt of a notification under subsection (1), Natural
+England shall, in turn, notify the Environment Agency.]
+[
+F350(2B)
+Subject to subsection (3), upon receipt of a notification under subsection (1) relating
+to a wetland all or part of which is in a strategic planning area designated under
+section 60D of the Planning and Compulsory Purchase Act 2004, the Natural
+Resources Body for Wales shall, in turn, notify the strategic planning panel for that
+area.]
+(3) [F345Natural England] and [F351the Natural Resources Body for Wales] may agree that
+in a case where the Secretary of State notifies both of them under subsection (1)(c),
+any notice under subsection (2) is to be sent by one or the other of them (and not both),
+so as to avoid duplicate notices under that subsection.
+(4) Subject to subsection (5), the “Ramsar Convention” is the Convention on Wetlands
+of International Importance especially as Waterfowl Habitat signed at Ramsar on 2nd
+February 1971, as amended by—
+(a)
+the Protocol known as the Paris Protocol done at Paris on 3rd December 1982;
+and
+(b)
+the amendments known as the Regina Amendments adopted at the
+Extraordinary Conference of the Contracting Parties held at Regina,
+Saskatchewan, Canada, between 28th May and 3rd June 1987.
+(5) If the Ramsar Convention is further amended after the passing of the Countryside and
+Rights of Way Act 2000, the reference to the Ramsar Convention in subsection (1)
+is to be taken after the entry into force of the further amendments as referring to that
+Convention as further amended (and the reference to paragraph 1 of article 2 is, if
+necessary, to be taken as referring to the appropriate successor provision).]
+Editorial Information
+X4
+The insertion of the new cross-heading "Nature reserves, marine nature reserves and Ramsar sites"
+in Part II on 1.10.2006 gives rise to a change in the structure of this legislation on SLD which breaks
+
+152
+Wildlife and Countryside Act 1981 (c. 69)
+Part II – Nature Conservation, Countryside and National Parks
+Document Generated: 2020-12-04
+Status: Point in time view as at 25/05/2020. This version of this Act contains provisions that are prospective.
+Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk
+editorial team to Wildlife and Countryside Act 1981. Any changes that have already been made by the
+team appear in the content and are referenced with annotations. (See end of Document for details)
+the continuity of historical versions of the existing provisions which are now brought under that new
+heading.
+Textual Amendments
+F344 S. 37A inserted (30.1.2001) by 2000 c. 37, ss. 77, 103(2)
+F345 Words in s. 37A(1)(a)(3) substituted (1.10.2006) by Natural Environment and Rural Communities Act
+2006 (c. 16), ss. 105(1), 107, Sch. 11 para. 36; S.I. 2006/2541, art. 2
+F346 Words in s. 37A(1)(b) substituted (1.4.2013) by The Natural Resources Body for Wales (Functions)
+Order 2013 (S.I. 2013/755), art. 1(2), Sch. 2 para. 175(2) (with Sch. 7)
+F347 Word in s. 37A(2)(b) inserted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order
+2013 (S.I. 2013/755), art. 1(2), Sch. 2 para. 175(3)(a) (with Sch. 7)
+F348 S. 37A(2)(c) omitted (1.4.2013) by virtue of The Natural Resources Body for Wales (Functions) Order
+2013 (S.I. 2013/755), art. 1(2), Sch. 2 para. 175(3)(b) (with Sch. 7)
+F349 S. 37A(2A) inserted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (S.I.
+2013/755), art. 1(2), Sch. 2 para. 175(4) (with Sch. 7)
+F350 S. 37A(2B) inserted (6.9.2015 for specified purposes) by Planning (Wales) Act 2015 (anaw 4), s. 58(2)
+(b)(4)(b), Sch. 2 para. 7
+F351 Words in s. 37A(3) substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order
+2013 (S.I. 2013/755), art. 1(2), Sch. 2 para. 175(5) (with Sch. 7)
+Marginal Citations
+M25 1991 c. 56.
+M26 1991 c. 59.
+F35238
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F352 S. 38 repealed (1.4.1991) by Environmental Protection Act 1990 (c.43, SIF 46:4), s. 162(2), Sch. 16
+Pt. VI; S.I. 1991/685, art. 3
+Countryside
+39
+Management agreements with owners and occupiers of land.
+(1) A relevant authority may, for the purpose of conserving or enhancing the natural
+beauty or amenity of any land which is F353. . . within their area or promoting
+its enjoyment by the public, make an agreement (in this section referred to as a
+“management agreement”) with any person having an interest in the land with respect
+to the management of the land during a specified term or without limitation of the
+duration of the agreement.
+(2) Without prejudice to the generality of subsection (1), a management agreement—
+(a)
+may impose on the person having an interest in the land restrictions as respects
+the method of cultivating the land, its use for agricultural purposes or the
+exercise of rights over the land and may impose obligations on that person
+to carry out works or agricultural or forestry operations or do other things on
+the land;
+
+Wildlife and Countryside Act 1981 (c. 69)
+Part II – Nature Conservation, Countryside and National Parks
+Document Generated: 2020-12-04

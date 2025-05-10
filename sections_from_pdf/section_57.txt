@@ -1,0 +1,123 @@
+57
+Status: Point in time view as at 25/05/2020. This version of this Act contains provisions that are prospective.
+Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk
+editorial team to Wildlife and Countryside Act 1981. Any changes that have already been made by the
+team appear in the content and are referenced with annotations. (See end of Document for details)
+F92
+S. 14C(2)(b)(ia)(ib) inserted (1.11.2019) by The Conservation (Natural Habitats, c.) (Miscellaneous
+Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/364), regs. 1(2), 2(3)(b)(ii)
+F93
+S. 14C(2)(ba) inserted (1.11.2019) by The Conservation (Natural Habitats, c.) (Miscellaneous
+Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/364), regs. 1(2), 2(3)(b)(i)
+F94
+Word in s. 14C(10) inserted (1.11.2019) by The Conservation (Natural Habitats, c.) (Miscellaneous
+Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/364), regs. 1(2), 2(3)(c)
+F95
+S. 14C(11) inserted (1.11.2019) by The Conservation (Natural Habitats, c.) (Miscellaneous
+Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/364), regs. 1(2), 2(3)(d)
+[F9614D Power to make species control orders
+(1) A relevant body may make an order (a “species control order”) in respect of premises
+where—
+(a)
+it is satisfied of the presence on the premises of—
+(i) an invasive animal at a place outwith its native range; or
+(ii) an invasive plant at a place outwith its native range; and
+(b)
+any of subsections (2) to (4) applies.
+(2) This subsection applies where—
+(a)
+the relevant body has offered to enter into an agreement with the owner or, as
+the case may be, occupier of the premises to control or eradicate—
+(i) invasive animals outwith their native range; or
+(ii) invasive plants outwith their native range,
+on the premises (referred to in this section as a “species control agreement”);
+(b)
+42 days have elapsed since the date of the offer; and
+(c)
+the owner or occupier has refused or otherwise failed to enter into the
+agreement.
+(3) This subsection applies where—
+(a)
+a person has entered into a species control agreement with the relevant body;
+and
+(b)
+the person has failed to comply with the terms of the agreement.
+(4) This subsection applies where the relevant body has failed to ascertain the name or
+address of any owner or occupier of the premises (having made reasonable efforts to do
+so) and accordingly has not been able to offer to enter into a species control agreement.
+(5) Subsection (4) does not apply unless—
+(a)
+the relevant body has given notice in accordance with subsection (6) stating
+that it wishes to offer to enter into a species control agreement;
+(b)
+48 hours have passed since the notice was given; and
+(c)
+no owner or occupier of the premises has identified themselves to the relevant
+body.
+(6) A notice under this subsection must be addressed to “The owners and any occupiers”
+of the premises (describing it) and a copy of it must be affixed to some conspicuous
+object on the premises (in so doing the relevant body is to be treated as having provided
+notice to each owner or occupier whose name and address is unknown).
+
+58
+Wildlife and Countryside Act 1981 (c. 69)
+Part I – Wildlife
+Document Generated: 2020-12-04
+Status: Point in time view as at 25/05/2020. This version of this Act contains provisions that are prospective.
+Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk
+editorial team to Wildlife and Countryside Act 1981. Any changes that have already been made by the
+team appear in the content and are referenced with annotations. (See end of Document for details)
+Textual Amendments
+F96
+Ss. 14D-14P inserted (S.) (2.7.2012) by Wildlife and Natural Environment (Scotland) Act 2011 (asp
+6), ss. 16, 43(1) (with s. 41(1)); S.S.I. 2012/175, art. 2(1)(b)
+14E
+Emergency species control orders
+(1) Where a relevant body considers that the making of a species control order is urgently
+necessary, the relevant body may, despite section 14D(1)(b), make a species control
+order whether or not any of subsections (2) to (4) of section 14D apply (such an order
+is referred to in this Part as an “emergency species control order”).
+(2) An emergency species control order expires 49 days after it is made.
+Textual Amendments
+F96
+Ss. 14D-14P inserted (S.) (2.7.2012) by Wildlife and Natural Environment (Scotland) Act 2011 (asp
+6), ss. 16, 43(1) (with s. 41(1)); S.S.I. 2012/175, art. 2(1)(b)
+14F
+Content of species control orders
+(1) A species control order must—
+(a)
+describe the premises to which it relates;
+(b)
+be accompanied by a map on which the premises to which it relates are
+delineated;
+(c)
+specify the type of invasive animal or plant in question;
+(d)
+specify—
+(i) any operations which are to be carried out on the premises for the
+purpose of controlling or eradicating the type of invasive animal or
+plant in question;
+(ii) the person who is to carry out the operations; and
+(iii) how and when the operations are to be carried out;
+(e)
+specify any operations which must not be carried out on the premises (referred
+to in this Part as “excluded operations”);
+(f)
+specify the date on which the order is to come into effect and the period for
+which it is to have effect; and
+(g)
+set out the circumstances in which an appeal may be made under section 14H
+against either the decision to make the order or the terms of the order.
+(2) A species control order—
+(a)
+may provide for the making of payments by the relevant body making the
+order;
+(b)
+other than an emergency species control order, may provide for the making of
+payments by the owner or occupier of the premises to which the order relates,
+to any person in respect of reasonable costs incurred by a person carrying out an
+operation under the order.
+
+Wildlife and Countryside Act 1981 (c. 69)
+Part I – Wildlife
+Document Generated: 2020-12-04

@@ -1,0 +1,621 @@
+Statutory Instruments
+
+1997 No. 1160
+COUNTRYSIDE
+
+The Hedgerows Regulations 1997
+Made24th March 1997
+Coming into force1st June 1997
+The Secretary of State for the Environment and the Minister of Agriculture, Fisheries and Food, acting jointly as respects England, and the Secretary of State for Wales, as respects Wales, in exercise of the powers conferred by section 97 of the Environment Act 1995(1), and of all other powers enabling them in that behalf, having undertaken the consultations required by section 97(6) of that Act, hereby make the following Regulations, a draft of which has been laid before, and has been approved by resolution of, both Houses of Parliament:
+
+Citation and commencement
+1.  These Regulations may be cited as the Hedgerows Regulations 1997 and shall come into force on 1st June 1997.
+
+Interpretation
+2.—(1) In these Regulations—
+
+“the 1990 Act” means the Town and Country Planning Act 1990(2);“the 1995 Act” means the Environment Act 1995;“agriculture” includes horticulture, fruit growing, seed growing, dairy farming, the breeding and keeping of livestock (including any creature kept for the production of food, wool, skins or fur, or for the purposes of its use in the farming of land), the use of land as grazing land, meadow land, osier land, market gardens and nursery grounds, and the use of land for woodlands where that use is ancillary to the farming of land for other agricultural purposes, and “agricultural” shall be construed accordingly;“agricultural holding” has the same meaning as in the Agricultural Holdings Act 1986(3);“common land” has the same meaning as in the Commons Registration Act 1965(4), and references to common land include town or village green within the meaning of that Act;“farm business tenancy” has the same meaning as in the Agricultural Tenancies Act 1995(5);“gap”, in relation to a hedgerow(6), means any opening (whether or not it is filled);“hedgerow removal notice” means a notice under regulation 5(1)(a);“hedgerow retention notice” means a notice referred to in regulation 5(2);“local planning authority”, except in paragraph 5(b)(ii) of Part II of Schedule 1, means—
+(a)as regards land within a National Park, the National Park Authority for that Park(7),
+(b)as regards land within the Broads, within the meaning of the Norfolk and Suffolk Broads Act 1988, the Broads Authority(8),
+(c)as regards the Isles of Scilly, the Council of the Isles of Scilly,
+(d)as regards any other land in England, the district planning authority within the meaning of the 1990 Act,
+(e)as regards any other land in Wales, the county council or county borough council;
+“notice” means notice in writing;“owner”—
+(a)in relation to a hedgerow growing on any land which comprises part of an agricultural holding or which is subject to a farm business tenancy, means the person who owns the freehold of the land or the tenant;
+(b)in relation to a hedgerow growing on any other land, means the person who owns the freehold of the land,
+and “owns the freehold” means is entitled, otherwise than as a mortgagee not in possession, to dispose of the fee simple;“protected land” means—
+(a)land managed as a nature reserve in pursuance of section 21 (establishment of nature reserves by local authorities) of the National Parks and Access to the Countryside Act 1949(9),
+(b)land in relation to which a notification under section 28 (areas of special scientific interest) of the Wildlife and Countryside Act 1981(10) is in force;
+“relevant utility operator”, in relation to any hedgerow, means—
+(a)any person who holds a licence granted under section 6 of the Electricity Act 1989(11) (power to grant licences for the generation, transmission or supply of electricity) and who wishes to remove or, as the case may be, removes the hedgerow in question for the purpose of carrying out any activity authorised by that licence;
+(b)any person who holds a licence granted or treated as granted under section 7 of the Gas Act 1986(12) (power to grant licences for the conveyance of gas through pipes) and who wishes to remove or, as the case may be, removes the hedgerow in question for the purpose of carrying out any activity authorised by that licence;
+(c)any person who holds a licence granted under section 7 of the Telecommunications Act 1984(13) (power to licence telecommunications systems) which applies to him the telecommunications code contained in Schedule 2 to that Act and who wishes to remove or, as the case may be, removes the hedgerow in question in pursuance of a right conferred by the telecommunications code and in accordance with the provisions of his licence;
+(d)a sewerage undertaker or a water undertaker which wishes to remove or, as the case may be, removes the hedgerow in question for the purpose of carrying out its functions, within the meaning of the Water Industry Act 1991(14).
+(2) In these Regulations a reference to a numbered regulation or Schedule is to the regulation in, or Schedule to, these Regulations which is so numbered and a reference in a regulation or Schedule to a numbered paragraph, or in a paragraph to a numbered sub-paragraph, is to a paragraph or sub-paragraph of that regulation, Schedule or paragraph.
+
+(3) Part I of Schedule 1 shall have effect for the purposes of interpretation of that Schedule, and Schedules 2 and 3 shall have effect for the purposes of that Part.
+
+Application of Regulations
+3.—(1) Subject to paragraph (3), these Regulations apply to any hedgerow growing in, or adjacent to, any common land, protected land, or land used for agriculture, forestry or the breeding or keeping of horses, ponies or donkeys, if—
+
+(a)it has a continuous length of, or exceeding, 20 metres; or
+
+(b)it has a continuous length of less than 20 metres and, at each end, meets (whether by intersection or junction) another hedgerow.
+
+(2) Subject to paragraph (3), a hedgerow is also one to which these Regulations apply if it is a stretch of hedgerow forming part of a hedgerow such as is described in paragraph (1).
+
+(3) These Regulations do not apply to any hedgerow within the curtilage of, or marking a boundary of the curtilage of, a dwelling-house.
+
+(4) A hedgerow which meets (whether by intersection or junction) another hedgerow is to be treated as ending at the point of intersection or junction.
+
+(5) For the purposes of ascertaining the length of any hedgerow—
+
+(a)any gap resulting from a contravention of these Regulations; and
+
+(b)any gap not exceeding 20 metres,
+
+shall be treated as part of the hedgerow.
+
+Criteria for determining “important” hedgerows
+4.  For the purposes of section 97 (hedgerows) of the Environment Act 1995 and these Regulations, a hedgerow is “important” if it, or the hedgerow of which it is a stretch,—
+
+(a)has existed for 30 years or more; and
+
+(b)satisfies at least one of the criteria listed in Part II of Schedule 1.
+
+Removal of hedgerows
+5.—(1) Subject to the exceptions specified in regulation 6, the removal(15) of a hedgerow to which these Regulations apply is prohibited unless—
+
+(a)the local planning authority in whose area the hedgerow is situated or, where it is situated in the area of more than one such authority, the local planning authority in whose area the greater part of the hedgerow is situated, have received from an owner of the hedgerow (subject to paragraph (10)) notice in the form set out in Schedule 4, or a form substantially to the same effect, of his proposal to remove the hedgerow (“hedgerow removal notice”) together with the plan and evidence mentioned in the form set out in Schedule 4; and
+
+(b)(i)the authority have given to the person who gave the hedgerow removal notice written notice stating that the hedgerow may be removed; or
+
+(ii)the period specified in paragraph (6) has expired without the authority having given to that person a hedgerow retention notice stating that the work may not be carried out; and
+
+(c)the removal is carried out in accordance with the proposal specified in the hedgerow removal notice; and
+
+(d)the hedgerow is removed within the period of two years beginning with the date of service of the hedgerow removal notice.
+
+(2) A local planning authority which has received a hedgerow removal notice shall, consistently with paragraph (5) and within the period specified in paragraph (6), decide whether or not to give notice to that person stating that the work or, where the hedgerow removal notice refers to more than one hedgerow, so much of the work as may be specified by the authority in their notice, may not be carried out (“hedgerow retention notice”).
+
+(3) Where a hedgerow in respect of which the local planning authority has received a hedgerow removal notice is situated in a parish in England for which there is a parish council, or in a community in Wales for which there is a community council, that authority shall consult that council (or, where there is more than one such council, each of them) on the proposal to remove that hedgerow.
+
+(4) The consultation referred to in paragraph (3) shall be completed before the period specified in paragraph (6) expires and before the giving of a notice under paragraph (1)(b)(i) or a hedgerow retention notice.
+
+(5) A local planning authority—
+
+(a)shall not give a hedgerow retention notice in respect of a hedgerow which is not an “important” hedgerow;
+
+(b)shall give such a notice, within the period specified in paragraph (6), in respect of an “important” hedgerow unless satisfied, having regard in particular to the reasons given for its proposed removal in the hedgerow removal notice, that there are circumstances which justify the hedgerow’s removal.
+
+(6) The period referred to in paragraphs (1)(b)(ii), (2), (4) and (5)(b) is that of 42 days beginning with the date on which the hedgerow removal notice is received by the local planning authority or such longer period as may be agreed between the person who gave the notice and the authority.
+
+(7) A hedgerow retention notice shall, except where regulation 8(4) applies, specify each criterion (of those listed in Schedule 1) which applies to the hedgerow to which the notice relates.
+
+(8) A hedgerow retention notice may be withdrawn at any time by the local planning authority by giving written notice of the withdrawal to the person to whom the hedgerow retention notice was given.
+
+(9) Where a hedgerow retention notice has been given stating that work relating to a hedgerow may not be carried out, and that notice has not been withdrawn, removal of the hedgerow consisting of or including any such work is prohibited.
+
+(10) Where a hedgerow is or is to be removed by or on behalf of a relevant utility operator from land of which it is not the owner, paragraph (1)(a) shall apply as though the reference to the owner were instead a reference to the relevant utility operator.
+
+Permitted work
+6.—(1) The removal of any hedgerow to which these Regulations apply is permitted if it is required—
+
+(a)for making a new opening in substitution for an existing opening which gives access to land, but subject to paragraph (2);
+
+(b)for obtaining temporary access to any land in order to give assistance in an emergency;
+
+(c)for obtaining access to land where another means of access is not available or is available only at disproportionate cost;
+
+(d)for the purposes of national defence;
+
+(e)for carrying out development for which planning permission has been granted or is deemed to have been granted, except development for which permission is granted by article 3 of the Town and Country Planning General Permitted Development Order 1995(16) in respect of development of any of the descriptions contained in Schedule 2 to that Order other than Parts 11 (development under local or private Acts or orders) and 30 (toll road facilities);
+
+(f)for carrying out, pursuant to, or under, the Land Drainage Act 1991(17), the Water Resources Act 1991(18) or the Environment Act 1995(19), work for the purpose of flood defence or land drainage;
+
+(g)for preventing the spread of, or ensuring the eradication of—
+
+(i)any plant pest, within the meaning of the Plant Health (Great Britain) Order 1993(20), in respect of which any action is being, or is to be, taken under Article 22 or 23 of that Order, or
+
+(ii)any tree pest, within the meaning of the Plant Health (Forestry) (Great Britain) Order 1993(21), in respect of which any action is being, or is to be, taken under Article 21 or 22 of that Order;
+
+(h)for the carrying out by the Secretary of State of his functions in respect of any highway for which he is the highway authority(22) or in relation to which, by virtue of section 4(2) of the Highways Act 1980, he has the same powers under that Act as the local highway authority;
+
+(i)for carrying out any felling, lopping or cutting back required or permitted as a consequence of any notice given or order made under paragraph 9 of Schedule 4 to the Electricity Act 1989(23) (felling, lopping or cutting back to prevent obstruction of or interference with electric lines and plant or to prevent danger); or
+
+(j)for the proper management of the hedgerow.
+
+(2) Where the removal of a hedgerow to which these Regulations apply is permitted by these Regulations only by paragraph (1)(a), the person removing it shall fill the existing opening by planting a hedge within 8 months of the making of the new opening.
+
+(3) The fact that work is permitted under these Regulations does not affect any prohibition or restriction imposed by or under any other enactment or by any agreement.
+
+Offences
+7.—(1) A person who intentionally or recklessly removes, or causes or permits another person to remove, a hedgerow in contravention of regulation 5(1) or (9) is guilty of an offence.
+
+(2) A person who contravenes or fails to comply with regulation 6(2) is guilty of an offence.
+
+(3) Hedgerows to which these Regulations apply are prescribed for the purposes of section 97(4)(d) of the 1995 Act (which relates to offences triable either way).
+
+(4) A person guilty of an offence under paragraph (1) shall be liable—
+
+(a)on summary conviction, to a fine not exceeding the statutory maximum; or
+
+(b)on conviction on indictment, to a fine.
+
+(5) A person guilty of an offence under paragraph (2) shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(6) In determining the amount of any fine to be imposed on a person convicted of an offence under paragraph (1) or (2), the court shall in particular have regard to any financial benefit which has accrued or appears likely to accrue to him in consequence of the offence.
+
+(7) Section 331 (offences by corporations) of the 1990 Act shall apply in relation to offences under paragraph (1) or (2) committed by a body corporate as it applies in relation to offences under that Act committed by a body corporate.
+
+Replacement of hedgerows
+8.—(1) Subject to regulation 15, where it appears to the local planning authority that a hedgerow has been removed in contravention of regulation 5(1) or (9), the authority may (whether or not proceedings are instituted under regulation 7), give a notice to the owner, requiring him to plant another hedgerow or, where the hedgerow has been removed by or on behalf of a relevant utility operator, give a notice to that operator requiring it to plant another hedgerow.
+
+(2) A notice under paragraph (1) shall specify the species and position of the shrubs, or trees and shrubs, to be planted and the period within which the planting is to be carried out.
+
+(3) Subsections (1), (2) and (6) of section 209 (execution and cost of works required by s.207 notice) of the 1990 Act shall apply, with the necessary modifications, to shrubs and trees whose planting is required by a notice under paragraph (1) as if they were trees whose planting was required by a notice under subsection (1) of section 207 (enforcement of duties as to replacement of trees) of that Act.
+
+(4) A hedgerow planted in compliance with a notice under paragraph (1) or by virtue of paragraph (3) shall be treated—
+
+(a)for the purposes of these Regulations;
+
+(b)for the period of 30 years beginning with the date of substantial completion of the planting,
+
+as if it were an “important” hedgerow within the meaning of regulation 4.
+
+Appeals
+9.—(1) Subject to regulation 15, a person to whom a hedgerow retention notice or a notice under regulation 8(1) is given may, by notice given within 28 days from the date on which the notice was given to him, or such longer period as the Secretary of State may allow, appeal to the Secretary of State.
+
+(2) The notice of appeal shall state the grounds for the appeal and the appellant shall serve a copy of it on the local planning authority which gave the hedgerow retention notice or notice under regulation 8(1).
+
+(3) In determining the appeal the Secretary of State—
+
+(a)may allow or dismiss it, either as to the whole or as to part;
+
+(b)shall give any directions necessary to give effect to his determination, including directions for quashing or modifying any notice,
+
+and he shall notify the appellant and the local planning authority of his determination of the appeal.
+
+(4) Before determining the appeal, the Secretary of State shall afford to the appellant and the local planning authority an opportunity, if they so wish, of appearing before, and being heard by, a person appointed by the Secretary of State for the purpose.
+
+(5) The Secretary of State may cause a local inquiry to be held in connection with an appeal and subsections (2) to (5) of section 250 of the Local Government Act 1972 (local inquiries: evidence and costs) shall apply to any such inquiry.
+
+(6) The Secretary of State shall have the same powers to appoint a person to exercise functions in connection with appeals under this regulation as he is given by section 114 of the 1995 Act in relation to his functions specified in that section; and the provisions of Schedule 20 to that Act shall apply with respect to any such appointment as it applies to appointments under that section.
+
+(7) The Secretary of State and any person appointed by him for any purpose of this regulation shall, except where the appeal is disposed of on the basis of written representations and other documents, have the same power to make orders under section 250(5) of the Local Government Act 1972 (orders with respect to costs of the parties) in relation to proceedings on an appeal under this regulation which do not give rise to an inquiry as he has in relation to an inquiry and section 322A(24) (orders as to costs: supplementary) of the 1990 Act shall apply to proceedings on an appeal under this regulation as if they were proceedings under that Act.
+
+Records
+10.  Each local planning authority shall compile and keep available for public inspection free of charge at all reasonable hours and at a convenient place a record containing a copy of—
+
+(a)every hedgerow removal notice received by them;
+
+(b)every hedgerow retention notice issued by them;
+
+(c)every notice given by them under regulation 5(1)(b)(i);
+
+(d)every determination notified to them under regulation 9(3).
+
+Injunctions
+11.—(1) Where a local planning authority consider it necessary or expedient for an actual or apprehended offence under these Regulations to be restrained by injunction, they may apply to the court for an injunction, whether or not they have exercised or are proposing to exercise any of their other powers under these Regulations.
+
+(2) On an application under paragraph (1) the court may grant such an injunction as the court thinks appropriate for the purpose of restraining the offence.
+
+(3) In this regulation “the court” means the High Court or the county court.
+
+Rights to enter without a warrant
+12.—(1) Any person duly authorised in writing by a local planning authority may enter any land for the purpose of—
+
+(a)surveying it in connection with any hedgerow removal notice received by the authority;
+
+(b)ascertaining whether an offence under regulation 7 has been committed;
+
+(c)determining whether a notice should be given under regulation 8,
+
+if there are reasonable grounds for entering for the purpose in question.
+
+(2) Any person duly authorised in writing by the Secretary of State may enter any land for the purpose of surveying it in connection with any appeal made under regulation 9, if there are reasonable grounds for entering for that purpose.
+
+(3) Any right to enter by virtue of paragraph (1) or (2) shall be exercised at a reasonable hour.
+
+(4) No right to enter by virtue of paragraph (1)(a) or (2) shall be exercised in relation to land which—
+
+(a)adjoins that in respect of which a hedgerow removal notice has been given or an appeal made; and
+
+(b)is occupied by a person other than the person who gave the hedgerow removal notice or made the appeal,
+
+unless at least 24 hours’ notice of the intended entry has been given to the occupier of that adjoining land.
+
+(5) In a case to which regulation 5(10) applies, no right to enter any land by virtue of paragraph (1)(a) or (2) shall be exercised unless at least 24 hours’ notice of the intended entry has been given to the occupier of the land.
+
+Right to enter under warrant
+13.—(1) If it is shown to the satisfaction of a justice of the peace on sworn information in writing—
+
+(a)that there are reasonable grounds for entering any land for any of the purposes mentioned in regulation 12(1) or (2); and
+
+(b)that—
+
+(i)admission to the land has been refused, or a refusal is reasonably apprehended; or
+
+(ii)the case is one of urgency,
+
+the justice may issue a warrant authorising any person duly authorised in writing by a local planning authority or, as the case may be, the Secretary of State to enter the land.
+(2) For the purposes of paragraph (1)(b)(i) admission to land shall be regarded as having been refused if no reply is received to a request for admission within a reasonable period.
+
+(3) A warrant authorises entry on one occasion only and that entry must be—
+
+(a)within one month from the date of the issue of the warrant; and
+
+(b)at a reasonable hour, unless the case is one of urgency.
+
+Rights of entry: supplementary provisions
+14.—(1) Any power conferred by virtue of regulation 12 or 13 to enter land (“a right of entry”) shall be construed as including power to take samples from any hedgerow on the land and samples of the soil.
+
+(2) A person authorised to enter land in the exercise of a right of entry—
+
+(a)shall, if so required, produce evidence of his authority and state the purpose of his entry before so entering;
+
+(b)may take with him such other persons as may be necessary; and
+
+(c)on leaving the land shall, if the occupier is not then present, leave it as effectively secured against trespassers as he found it.
+
+(3) Any person who wilfully obstructs a person acting in the exercise of a right of entry shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(4) If any damage is caused to land or chattels in the exercise of a right of entry, compensation may be recovered by any person suffering the damage from the authority who gave the written authority for the entry or, as the case may be, the Secretary of State.
+
+(5) Any question of disputed compensation under this regulation shall be referred to and determined by the Lands Tribunal.
+
+(6) In relation to the determination of any such question, the provisions of sections 2 and 4 of the Land Compensation Act 1961(25) shall apply subject to any necessary modifications.
+
+Local planning authorities as owners of hedgerows
+15.—(1) This regulation applies where a local planning authority are the owners (whether alone or jointly with others) of a hedgerow to which these Regulations apply.
+
+(2) Notwithstanding anything in section 101 (arrangements for the discharge of functions by local authorities) of the Local Government Act 1972(26), a hedgerow removal notice given in a case to which this regulation applies may not be considered—
+
+(a)by a committee or sub-committee of the authority concerned if that committee or sub-committee is responsible (wholly or partly) for the management of the land in which is situated the hedgerow to which the notice relates; or
+
+(b)by an officer of the authority concerned if his responsibilities include any aspect of the management of the land in which is situated the hedgerow to which the notice relates.
+
+(3) Regulations 8 and 9 do not apply in a case to which this regulation applies.
+
+Application of other provisions of the 1990 Act
+16.—(1) Subsections (1), (3) and (6) of section 318 (ecclesiastical property) of the 1990 Act(27) shall apply—
+
+(a)to notices required to be served under these Regulations on an owner of land as if those notices were notices required to be served on an owner of land under a provision of the 1990 Act; and
+
+(b)to compensation payable under regulation 14 of these Regulations as if that compensation were compensation payable under Part IV of the 1990 Act.
+
+(2) Subsections (1), (2) and (4) of section 329 (service of notices) of the 1990 Act(28) shall apply to notices under these Regulations as if those notices were notices required or authorised to be given or served under that Act.
+
+John Selwyn GummerSecretary of State for the Environment
+23rd March 1997
+
+Tim BoswellPaliamentary Secretary, Ministry of Agriculture, Fisheries and Food
+24th March 1997
+
+William HagueSecretary of State for Wales
+21st March 1997
+
+Regulations 2(3) and 4
+SCHEDULE 1
+ADDITIONAL CRITERIA FOR DETERMINING “IMPORTANT” HEDGEROWS
+PART I
+INTERPRETATION
+In this Schedule—
+
+“building” includes structure;
+“Record Office” means—
+(a)a place appointed under section 4 of the Public Records Act 1958(29) (place of deposit of public records),
+(b)a place at which documents are held pursuant to a transfer under section 144A(4) of the Law of Property Act 1922(30) or under section 36(2) of the Tithe Act 1936(31), including each of those provisions as applied by section 7(1) of the Local Government (Records) Act 1962(32), or
+(c)a place at which documents are made available for inspection by a local authority pursuant to section 1 of the Local Government (Records) Act 1962;
+“relevant date” means the date on which these Regulations are made;
+“Sites and Monuments Record” means a record of archaeological features and sites adopted—
+(a)by resolution of a local authority within the meaning of the Local Government Act 1972(33), or
+(b)in Greater London, by the Historic Buildings and Monuments Commission(34);
+“standard tree”—
+(a)in the case of a multi-stemmed tree, means a tree which, when measured at a point 1.3 metres from natural ground level, has at least two stems whose diameters are at least 15 centimetres;
+(b)in the case of a single-stemmed tree, means a tree which, when measured at a point 1.3 metres from natural ground level, has a stem whose diameter is at least 20 centimetres;
+“woodland species” means the species listed in Schedule 2; and
+“woody species” means the species and sub-species listed in Schedule 3, and any hybrid, that is to say, any individual plant resulting from a cross between parents of any species or sub-species so listed, but does not include any cultivar; and
+references to the documents in paragraph 6(3)(b) and (4) are to those documents as at the relevant date, without taking account of any subsequent revisions, supplements or modifications.
+
+PART II
+CRITERIA
+Archaeology and history
+1.  The hedgerow marks the boundary, or part of the boundary, of at least one historic parish or township; and for this purpose “historic” means existing before 1850.
+
+2.  The hedgerow incorporates an archaeological feature which is—
+
+(a)included in the schedule of monuments compiled by the Secretary of State under section 1 (schedule of monuments) of the Ancient Monuments and Archaeological Areas Act 1979(35); or
+
+(b)recorded at the relevant date in a Sites and Monuments Record.
+
+3.  The hedgerow—
+
+(a)is situated wholly or partly within an archaeological site included or recorded as mentioned in paragraph 2 or on land adjacent to and associated with such a site; and
+
+(b)is associated with any monument or feature on that site.
+
+4.  The hedgerow—
+
+(a)marks the boundary of a pre-1600 AD estate or manor recorded at the relevant date in a Sites and Monuments Record or in a document held at that date at a Record Office; or
+
+(b)is visibly related to any building or other feature of such an estate or manor.
+
+5.  The hedgerow—
+
+(a)is recorded in a document held at the relevant date at a Record Office as an integral part of a field system pre-dating the Inclosure Acts(36); or
+
+(b)is part of, or visibly related to, any building or other feature associated with such a system, and that system—
+
+(i)is substantially complete; or
+
+(ii)is of a pattern which is recorded in a document prepared before the relevant date by a local planning authority, within the meaning of the 1990 Act(37), for the purposes of development control within the authority’s area, as a key landscape characteristic.
+
+Wildlife and landscape
+6.—(1) The hedgerow—
+
+(a)contains species listed or categorised as mentioned in sub-paragraph (3); or
+
+(b)is referred to in a record held immediately before the relevant date by a biological record centre maintained by, or on behalf of, a local authority within the meaning of the Local Government Act 1972(38), and in a form recognised by the Nature Conservancy Council for England, the Countryside Council for Wales(39) or the Joint Nature Conservation Committee(40), as having contained any such species—
+
+(i)in the case of animals and birds, subject to sub-paragraph (2), within the period of five years immediately before the relevant date.
+
+(ii)in the case of plants, subject to sub-paragraph (2), within the period of ten years immediately before the relevant date;
+
+(2) Where more than one record referable to the period of five or, as the case may be, ten years before the relevant date is held by a particular biological record centre, and the more (or most) recent record does not satisfy the criterion specified in sub-paragraph (1)(b), the criterion is not satisfied (notwithstanding that an earlier record satisfies it).
+
+(3) The species referred to in sub-paragraph (1) are those—
+
+(a)listed in Part I (protection at all times) of Schedule 1 (birds which are protected by special penalties), Schedule 5 (animals which are protected) or Schedule 8 (plants which are protected) to the Wildlife and Countryside Act 1981(41);
+
+(b)categorised as a declining breeder (category 3) in “Red Data Birds in Britain” Batten LA, Bibby CJ, Clement P, Elliott GD and Porter RF (Eds.), published in 1990 for the Nature Conservancy Council and the Royal Society for the Protection of Birds (ISBN 0 85661 056 9); or
+
+(c)categorised as “endangered”, “extinct”, “rare” or “vulnerable” in Britain in a document mentioned in sub-paragraph (4).
+
+(4) The documents referred to in sub-paragraph (3)(c) are—
+
+(a)of the books known as the British Red Data Books:
+
+1.“Vascular Plants” Perring FH and Farrell L, 2nd Edition, published in 1983 for the Royal Society for Nature Conservation (ISBN 0 902484 04 4);
+
+2.“Insects” Shirt DB (Ed.), published in 1987 for the Nature Conservancy Council (ISBN 0 86139 380 5); and
+
+3.“Invertebrates other than insects” Bratton JH (Ed.), published in 1991 for the Joint Nature Conservation Committee (ISBN 1 873701 00 4); and
+
+(b)of the books known as the Red Data Books of Britain and Ireland:
+
+“Stoneworts” Stewart NF and Church JM, published in 1992 for the Joint Nature Conservation Committee (ISBN 1 873701 24 1).
+7.—(1) Subject to sub-paragraph (2), the hedgerow includes—
+
+(a)at least 7 woody species;
+
+(b)at least 6 woody species, and has associated with it at least 3 of the features specified in sub-paragraph (4);
+
+(c)at least 6 woody species, including one of the following—
+
+black-poplar tree (Populus nigra ssp betulifolia);large-leaved lime (Tilia platyphyllos);small-leaved lime (Tilia cordata);wild service-tree (Sorbus torminalis); or
+(d)at least 5 woody species, and has associated with it at least 4 of the features specified in sub-paragraph (4),
+
+and the number of woody species in a hedgerow shall be ascertained in accordance with sub-paragraph (3).
+
+(2) Where the hedgerow in question is situated wholly or partly in the county (as constituted on 1st April 1997) of the City of Kingston upon Hull, Cumbria, Darlington, Durham, East Riding of Yorkshire, Hartlepool, Lancashire, Middlesbrough, North East Lincolnshire, North Lincolnshire, Northumberland, North Yorkshire, Redcar and Cleveland, Stockton-on-Tees, Tyne and Wear, West Yorkshire or York(42), the number of woody species mentioned in paragraphs (a) to (d) of sub-paragraph (1) is to be treated as reduced by one.
+
+(3) For the purposes of sub-paragraph (1) (and those of paragraph 8(b))—
+
+(a)where the length of the hedgerow does not exceed 30 metres, count the number of woody species present in the hedgerow;
+
+(b)where the length of the hedgerow exceeds 30 metres, but does not exceed 100 metres, count the number of woody species present in the central stretch of 30 metres;
+
+(c)where the length of the hedgerow exceeds 100 metres, but does not exceed 200 metres, count the number of woody species present in the central stretch of 30 metres within each half of the hedgerow and divide the aggregate by two;
+
+(d)where the length of the hedgerow exceeds 200 metres, count the number of woody species present in the central stretch of 30 metres within each third of the hedgerow and divide the aggregate by three.
+
+(4) The features referred to in sub-paragraph (1)(b) and (d) (which include those referred to in paragraph 8(b)) are—
+
+(a)a bank or wall which supports the hedgerow along at least one half of its length;
+
+(b)gaps which in aggregate do not exceed 10% of the length of the hedgerow;
+
+(c)where the length of the hedgerow does not exceed 50 metres, at least one standard tree;
+
+(d)where the length of the hedgerow exceeds 50 metres but does not exceed 100 metres, at least 2 standard trees;
+
+(e)where the length of the hedgerow exceeds 100 metres, such number of standard trees (within any part of its length) as would when averaged over its total length amount to at least one for each 50 metres;
+
+(f)at least 3 woodland species within one metre, in any direction, of the outermost edges of the hedgerow;
+
+(g)a ditch along at least one half of the length of the hedgerow;
+
+(h)connections scoring 4 points or more in accordance with sub-paragraph (5);
+
+(i)a parallel hedge within 15 metres of the hedgerow.
+
+(5) For the purposes of sub-paragraph (4)(h) a connection with another hedgerow scores one point and a connection with a pond or a woodland in which the majority of trees are broad-leaved trees scores 2 points; and a hedgerow is connected with something not only if it meets it but also if it has a point within 10 metres of it and would meet it if the line of the hedgerow continued.
+
+8.  The hedgerow—
+
+(a)is adjacent to a bridleway or footpath, within the meaning of the Highways Act 1980(43), a road used as a public path, within the meaning of section 54 (duty to reclassify roads used as public paths) of the Wildlife and Countryside Act 1981(44), or a byway open to all traffic, within the meaning of Part III of the Wildlife and Countryside Act 1981(45), and
+
+(b)includes at least 4 woody species, ascertained in accordance with paragraph 7(3) and at least 2 of the features specified in paragraph 7(4)(a) to (g).
+
+Regulation 2(3) and Schedule 1, Part I
+SCHEDULE 2
+WOODLAND SPECIES
+Barren strawberry (Potentilla sterilis)
+Bluebell (Hyacinthoides non-scriptus)
+Broad buckler fern (Dryopteris dilatata)
+Broad-leaved helleborine (Epipactis helleborine)
+Bugle (Ajuga reptans)
+Common cow-wheat (Melampyrum pratense)
+Common dog violet (Viola riviniana)
+Common polypody (Polypodium vulgare)
+Dog’s mercury (Mercurialis perennis)
+Early dog violet (Viola reichenbachiana)
+Early purple orchid (Orchis mascula)
+Enchanter’s nightshade (Circaea lutetiana)
+Giant fescue (Festuca gigantea)
+Goldilocks buttercup (Ranunculus auricomus)
+Great bell-flower (Campanula latifolia)
+Greater wood-rush (Luzula sylvatica)
+Hairy brome (Bromus ramosus)
+Hairy woodrush (Luzula pilosa)
+Hard fern (Blechnum spicant)
+Hard shield fern (Polystichum aculeatum)
+Hart’s tongue (Asplenium scolopendrium)
+Heath bedstraw (Galium saxatile)
+Herb paris (Paris quadrifolia)
+Herb-robert (Geranium robertianum)
+Lady fern (Athyrium filix-femina)
+Lords-and-ladies (Arum maculatum)
+Male fern (Dryopteris filix-mas)
+Moschatel (Adoxa moschatellina)
+Narrow buckler-fern (Dryopteris carthusiana)
+Nettle-leaved bell-flower (Campanula trachelium)
+Oxlip (Primula elatior)
+Pignut (Conopodium majus)
+Primrose (Primula vulgaris)
+Ramsons (Allium ursinum)
+Sanicle (Sanicula europaea)
+Scaly male-fern (Dryopteris affinis)
+Small cow-wheat (Melampyrum sylvaticum)
+Soft shield fern (Polystichum setiferum)
+Sweet violet (Viola odorata)
+Toothwort (Lathraea squamaria)
+Tormentil (Potentilla erecta)
+Wild strawberry (Fragaria vesca)
+Wood anemone (Anemone nemorosa)
+Wood avens/Herb bennet (Geum urbanum)
+Wood false-brome (Brachypodium sylvaticum)
+Wood horsetail (Equisetum sylvaticum)
+Wood meadow-grass (Poa nemoralis)
+Wood melick (Melica uniflora)
+Wood millet (Millium effusum)
+Wood sage (Teucrium scorodonia)
+Wood sedge (Carex sylvatica)
+Wood sorrel (Oxalis acetosella)
+Wood speedwell (Veronica montana)
+Wood spurge (Euphorbia amygdaloides)
+Woodruff (Galium odoratum)
+Yellow archangel (Lamiastrum galeobdolon)
+Yellow pimpernel (Lysimachia nemorum)
+Regulation 2(3) and Schedule 1, Part I
+SCHEDULE 3
+WOODY SPECIES
+Alder (Alnus glutinosa)
+Apple, crab (Malus sylvestris)
+Ash (Fraxinus excelsior)
+Aspen (Populus tremula)
+Beech (Fagus sylvatica)
+Birch, downy (Betula pubescens)
+Birch, silver (Betula pendula)
+Black-poplar (Populus nigra sub-species betulifolia)
+Blackthorn (Prunus spinosa)
+Box (Buxus sempervirens)
+Broom (Cytisus scoparius)
+Buckthorn (Rhamnus cathartica)
+Buckthorn, alder (Frangula alnus)
+Butcher’s-broom (Ruscus aculeatus)
+Cherry, bird (Prunus padus)
+Cherry, wild (Prunus avium)
+Cotoneaster, wild (Cotoneaster integerrimus)
+Currant, downy (Ribes spicatum)
+Currant, mountain (Ribes alpinum)
+Dogwood (Cornus sanguinea)
+Elder (Sambucus nigra)
+Elm (Ulmus species)
+Gooseberry (Ribes uva-crispa)
+Gorse (Ulex europaeus)
+Gorse, dwarf (Ulex minor)
+Gorse, western (Ulex gallii)
+Guelder rose (Viburnum opulus)
+Hawthorn (Crataegus monogyna)
+Hawthorn, midland (Crataegus laevigata)
+Hazel (Corylus avellana)
+Holly (Ilex aquilfolium)
+Hornbeam (Carpinus betulus)
+Juniper, common (Juniperus communis)
+Lime, large-leaved (Tilia platyphyllos)
+Lime, small-leaved (Tilia cordata)
+Maple, field (Acer campestre)
+Mezereon (Daphne mezereum)
+Oak, pedunculate (Quercus robur)
+Oak, sessile (Quercus petraea)
+Osier (Salix viminalis)
+Pear, Plymouth (Pyrus cordata)
+Pear, wild (Pyrus pyraster)
+Poplar, grey (Populus x canescens)
+Poplar, white (Populus alba)
+Privet, wild (Ligustrum vulgare)
+Rose (Rosa species)
+Rowan (Sorbus aucuparia)
+Sea-buckthorn (Hippophae rhamnnoides)
+Service-tree, wild (Sorbus torminalis)
+Spindle (Euonymus europaeus)
+Spurge-laurel (Daphne laureola)
+Walnut (Juglans regia)
+Wayfaring-tree (Viburnum lantana)
+Whitebeam (Sorbus species)
+Willow (Salix species)
+Yew (Taxus baccata)
+Regulation 5(1)
+SCHEDULE 4
+FORM OF HEDGEROW REMOVAL NOTICE
+The Environment Act 1995
+The Hedgerows Regulations 1997
+
+Explanatory Note
+(This note is not part of the Regulations)
+
+These Regulations make provision for the protection of important hedgerows in England and Wales. To facilitate the protection of those hedgerows, the Regulations apply to a wider class of hedgerows, described in regulation 3 (in particular to hedgerows which are 20 metres or more long or which meet another hedgerow at each end and which, in each case, are on or adjacent to land used for certain specified purposes).
+
+Before removing any hedgerow, including a stretch of hedgerow, to which these Regulations apply the owner (or in certain cases a relevant utility operator) must notify the local planning authority (regulation 5). The hedgerow may then not be removed if the local planning authority serves a hedgerow retention notice, which may be done only if the hedgerow is important according to the criteria set out in regulation 4 and Schedules 1 to 3. The requirement for the owner (or utility operator) to notify the local planning authority does not apply to the permitted work described in regulation 6.
+
+There are provisions for criminal offences (regulation 7), replacement of hedgerows removed in contravention of the regulations (regulation 8), appeals against hedgerow retention and other notices (regulation 9), record-keeping by the local planning authority (regulation 10), enforcement by injunction (regulation 11) and rights of entry (regulations 12 to 14). There are also provisions for hedgerows owned by the local planning authority (regulation 15) and ecclesiastical property (regulation 16(1)). Some of these further provisions apply provisions of planning legislation and others make provision comparable to that to be found in the planning legislation in connection with appeals or with the preservation of trees.
+
+The criterion for determining important hedgerows set out in paragraph 6 of Part II of Schedule 1 refers to publications known as Red Data Books. Copies of those publications are available from specialist bookshops and are available for inspection between the hours of 9 a.m. and 5 p.m. Monday to Friday at the offices of the Department of the Environment, Eland House, Bressenden Place, London SW1 and of the Welsh Office at Cathay’s Park, Cardiff.
+
+(1)1995 c. 25; See the definition of “the appropriate Ministers” in section 97(8).
+(2)1990 c. 8.
+(3)1986 c. 5; See section 1 of that Act.
+(4)1965 c. 64; See section 22 of that Act.
+(5)1995 c. 8; See sections 1 and 2 of that Act.
+(6)Section 97(8) of the Environment Act 1995 defines “hedgerow” as including any stretch of hedgerow.
+(7)See Part III of the Environment Act 1995, the National Park Authorities (Wales) Order 1995 (S.I. 1995/2803, amended by S.I. 1996/534 and 1996/1224) and the National Park Authorities (England) Order 1996 (S.I. 1996/1243).
+(8)1988 c. 4. See section 1(1) and the definition of “the Broads” in section 2(3).
+(9)1949 c. 97. Section 21 was amended by the Local Government Act 1972 (c. 70), Schedule 30, the Local Government (Scotland) Act 1973 (c. 65), Schedule 29 and the Nature Conservancy Council Act 1973 (c. 54), section 1(1)(b) and (7) and Schedule 1, paragraph 1.
+(10)1981 c. 69. Section 28 was amended by the Wildlife and Countryside (Amendment) Act 1985 (c. 31), section 2, the Norfolk and Suffolk Broads Act 1988 (c. 4), Schedule 3, paragraph 31, and the Wildlife and Countryside (Service of Notices) Act 1985 (c. 59), section 1(2).
+(11)1989 c. 29.
+(12)1986 c. 44; section 7 was substituted by section 5 of the Gas Act 1995 (c. 45).
+(13)1984 c. 12.
+(14)1991 c. 56. See the definitions of “function” and “relevant undertaker” in section 219(1).
+(15)See the definition of “remove” in section 97(8) of the Environment Act 1995.
+(16)S.I. 1995/418.
+(17)1991 c. 59. See the definition of “drainage” in section 72(1), as substituted by the Environment Act 1995 (c. 25), section 100(2).
+(18)1991 c. 57. See the definition of “drainage” in section 113(1), as amended by the Environment Act 1995, section 100(1).
+(19)1995 c. 25. See, in particular, section 2(1)(a)(iii).
+(20)S.I. 1993/1320; a relevant amending instrument is S.I. 1995/1358. The definition of “plant pest” is contained in article 2(1) of the Order.
+(21)S.I. 1993/1283. The definition of “tree pest” is contained in article 2(1) of the Order.
+(22)See Part I of the Highways Act 1980 (c. 66).
+(23)1989 c. 29.
+(24)Section 322A was added by the Planning and Compensation Act 1991 (c. 34), section 30.
+(25)1961 c. 33.
+(26)1972 c. 70.
+(27)Section 318(3) and (6) was amended by the Planning and Compensation Act 1991, Schedule 15, paragraph 30.
+(28)Subsection (4) was inserted by the Planning and Compensation Act 1991, Schedule 7, paragraph 51.
+(29)1958 c. 51.
+(30)1922 c. 16; section 144A was inserted by the Law of Property (Amendment) Act 1924 (c. 5), Schedule 2.
+(31)1928 c. 2.
+(32)1962 c. 56.
+(33)1972 c. 70.
+(34)The Commission was established by section 32 of the National Heritage Act 1993 (c. 47).
+(35)1979 c. 46.
+(36)See the Short Titles Act 1896 (c. 14).
+(37)See section 1 of the Town and Country Planning Act 1990, as amended by the Local Government (Wales) Act 1994 (c. 19).
+(38)See the definition of “local authority” in section 270(1), as amended by the Local Government Act 1985 (c. 51), Schedule 17 and the Local Government (Wales) Act 1994, Schedule 1, paragraphs 1 and 57.
+(39)See section 128(1) of the Environmental Protection Act 1990 (c. 43); subsection (1) of section 128 was amended by the National Heritage (Scotland) Act 1991 (c. 28).
+(40)See section 128(4) of the Environmental Protection Act 1990.
+(41)1981 c. 69. Schedule 5 is amended by S.I. 1988/288, 1989/906, 1991/367 and 1992/2350.
+(42)In relation to the City of Kingston upon Hull, North and North East Lincolnshire and the East Riding of Yorkshire, see S.I. 1995/600; to Darlington and Durham, see S.I. 1995/1772; to Hartlepool, Middlesbrough, Redcar and Cleveland and Stockton-on-Tees, see S.I. 1995/1747; to Lancashire, see S.I. 1996/1868; and to North Yorkshire and York, see S.I. 1995/610.
+(43)1980 c. 66. See the definition of “bridleway” and “footpath” in section 3.
+(44)1981 c. 69.
+(45)See the definition in section 66(1).

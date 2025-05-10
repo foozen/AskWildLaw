@@ -1,0 +1,123 @@
+49
+Status: Point in time view as at 25/05/2020. This version of this Act contains provisions that are prospective.
+Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk
+editorial team to Wildlife and Countryside Act 1981. Any changes that have already been made by the
+team appear in the content and are referenced with annotations. (See end of Document for details)
+(a)
+other types of animals to which subsection (1)(a)(i) or (1)(b) does not apply;
+and
+(b)
+types of plants to which subsection (2) does not apply.
+(2C) The Scottish Ministers may, by order, disapply subsection (1) or (2) in relation to—
+(a)
+any person specified in the order;
+(b)
+any conduct undertaken for the purposes of any enactment (including any
+enactment contained in or made under an Act of the Scottish Parliament) so
+specified; or
+(c)
+any conduct authorised by, under or in pursuance of any such enactment.
+(2D) An order under subsection (1)(a)(ii), (2B) or (2C) may make different provision for
+different cases and, in particular, for—
+(a)
+different types of animal or plant;
+(b)
+different circumstances or purposes;
+(c)
+different persons;
+(d)
+different times of the year; and
+(e)
+different areas or places.]
+(3) Subject to subsection (4), it shall be a defence to a charge of committing an offence
+under subsection (1) or (2) to [F758show] that the accused took all reasonable steps and
+exercised all due diligence to avoid committing the offence.
+(4) Where the defence provided by subsection (3) involves an allegation that the
+commission of the offence was due to the act or default of another person, the person
+charged shall not, without leave of the court, be entitled to rely on the defence
+unless, within a period ending seven clear days before the hearing, he has served
+on the prosecutor a notice giving such information identifying or assisting in the
+identification of the other person as was then in his possession.
+F759(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+F759(6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Extent Information
+E42
+This version of this provision extends to Scotland only; a separate version has been created for
+England and Wales only
+Textual Amendments
+F757 S. 14(1)-(2D) substituted for s. 14(1)(2) (S.) (1.5.2012 for specified purposes, 2.7.2012 in so far as not
+already in force) by Wildlife and Natural Environment (Scotland) Act 2011 (asp 6), ss. 14(2)(a), 43(1)
+(with s. 41(1)); S.S.I. 2012/116, art. 2(a)(i); S.S.I. 2012/175, art. 2(1)(a) (with art. 3(3))
+F758 Word in s. 14(3) substituted (S.) (2.7.2012) by Wildlife and Natural Environment (Scotland) Act 2011
+(asp 6), ss. 14(2)(b), 43(1) (with s. 41(1)); S.S.I. 2012/175, art. 2(a)
+F759 S. 14(5)(6) repealed (S.) (2.7.2012) by Wildlife and Natural Environment (Scotland) Act 2011 (asp 6),
+ss. 14(2)(c), 43(1) (with s. 41(1)); S.S.I. 2012/175, art. 2(a)
+Modifications etc. (not altering text)
+C7
+S. 14 excluded (E.W.) (30.11.2017) by The Conservation of Habitats and Species Regulations 2017
+(S.I. 2017/1012), regs. 1(2), 54(8) (with reg. 56(2))
+
+50
+Wildlife and Countryside Act 1981 (c. 69)
+Part I – Wildlife
+Document Generated: 2020-12-04
+Status: Point in time view as at 25/05/2020. This version of this Act contains provisions that are prospective.
+Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk
+editorial team to Wildlife and Countryside Act 1981. Any changes that have already been made by the
+team appear in the content and are referenced with annotations. (See end of Document for details)
+[F7814ZASale etc. of [F79certain animals and plants included in Schedule 9]
+(1) Subject to the provisions of this Part, a person is guilty of an offence if he sells, offers
+or exposes for sale, or has in his possession or transports for the purposes of sale—
+(a)
+an animal or plant to which this section applies, or
+(b)
+anything from which such an animal or plant can be reproduced or propagated.
+(2) Subject to the provisions of this Part, a person is guilty of an offence if he publishes
+or causes to be published any advertisement likely to be understood as conveying that
+he buys or sells, or intends to buy or sell—
+(a)
+an animal or plant to which this section applies, or
+(b)
+anything from which such an animal or plant can be reproduced or propagated.
+(3) This section applies to an animal or plant which—
+(a)
+is within section 14(1) or (2) (animals and plants which must not be released
+etc. into the wild),
+(b)
+is of a description prescribed for the purposes of this section by an order made
+by the Secretary of State, and
+(c)
+is a live animal or live plant.
+(4) An order under subsection (3) may be made in relation to a particular area or a
+particular time of the year.
+(5) Subsections (3) and (4) of section 14 (defence of due diligence etc.) apply to an offence
+under this section as they apply to an offence under that section.]
+Textual Amendments
+F78
+S. 14ZA inserted (1.10.2006) by Natural Environment and Rural Communities Act 2006 (c. 16), ss. 50,
+107; S.I. 2006/2541, art. 2
+F79
+Words in s. 14ZA heading substituted (5.3.2015 for E.) by Infrastructure Act 2015 (c. 7), ss. 25(3),
+57(4); S.I. 2015/481, reg. 2(c)
+Modifications etc. (not altering text)
+C8
+S. 14ZA(3)(b) applied (1.12.2019) by The Invasive Alien Species (Enforcement and Permitting) Order
+2019 (S.I. 2019/527), arts. 1(1), 3(6) (with art. 1(2)(4)) (as amended by S.I. 2019/1213, regs. 1, 2(2))
+[F8014ZBCodes of practice in connection with [F81species which are non-native or included
+in Schedule 9]
+(1) The Secretary of State may issue or approve a code of practice relating to—
+(a)
+animals which are not ordinarily resident in and are not regular visitors to
+Great Britain in a wild state,
+(b)
+animals or plants included in Schedule 9, or
+(c)
+any description of animals or plants mentioned in paragraph (a) or (b).
+(2) The Secretary of State may revise or replace a code or approve its revision or
+replacement.
+(3) The Secretary of State must ensure that a code is published in a way that is appropriate
+for bringing it to the attention of persons likely to be affected by it.
+
+Wildlife and Countryside Act 1981 (c. 69)
+Part I – Wildlife
+Document Generated: 2020-12-04

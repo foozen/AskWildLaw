@@ -1,0 +1,133 @@
+241
+Status: Point in time view as at 25/05/2020. This version of this Act contains provisions that are prospective.
+Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk
+editorial team to Wildlife and Countryside Act 1981. Any changes that have already been made by the
+team appear in the content and are referenced with annotations. (See end of Document for details)
+What an order must do
+11
+(1) A species control order under paragraph 10(2)(a) or (b) (failure to comply with or
+enter into agreement) must contain provision—
+(a)
+requiring the owner specified in that paragraph to carry out species control
+operations, or
+(b)
+stating that the environmental authority proposes to carry out species control
+operations,
+or both.
+(2) A species control order under paragraph 10(2)(c) (emergency) must contain
+provision—
+(a)
+requiring any owner of the premises specified in the order to carry out species
+control operations, or
+(b)
+stating that the environmental authority proposes to carry out species control
+operations,
+or both.
+(3) A species control order under paragraph 10(2)(d) (no identifiable owner) must
+contain provision stating that the environmental authority proposes to carry out
+species control operations.
+12
+(1) A species control order must—
+(a)
+specify the species to which the order relates,
+(b)
+specify the species control operations to be carried out,
+(c)
+specify the time by which the species control operations must be carried out
+or (as the case may be) the time by which they are proposed to be carried
+out by the authority, and
+(d)
+if appropriate, include a map of the premises to which the order relates.
+(2) Unless it is made under paragraph 10(2)(c) (emergency), a species control order—
+(a)
+may not require an owner of premises to carry out species control operations,
+or provide for an environmental authority to carry out species control
+operations, before the end of the period in which an appeal may be made (as
+to appeals, see paragraph 16), and
+(b)
+must provide that if an appeal is made within that period, the owner need not
+carry out the operations, or the environmental authority shall not carry out
+the operations, before the appeal is withdrawn or finally determined.
+What an order may do
+13
+(1) A species control order may contain provision supplementary to that specified in
+paragraphs 11 and 12.
+(2) That may include provision as to—
+(a)
+how species control operations are to be carried out;
+(b)
+payment to be made by the environmental authority to—
+(i) an owner, in respect of the reasonable costs of operations to be
+carried out by the owner, or
+(ii) another person, in respect of the reasonable costs of operations to
+be carried out by an owner;
+
+242
+Wildlife and Countryside Act 1981 (c. 69)
+SCHEDULE 9A – Species control agreements and orders (England and Wales)
+Document Generated: 2020-12-04
+Status: Point in time view as at 25/05/2020. This version of this Act contains provisions that are prospective.
+Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk
+editorial team to Wildlife and Countryside Act 1981. Any changes that have already been made by the
+team appear in the content and are referenced with annotations. (See end of Document for details)
+(c)
+payment that an owner must make in respect of the reasonable costs of
+species control operations to be carried out by the environmental authority;
+(d)
+species control operations that an owner must not carry out;
+(e)
+who will carry out species control operations for the environmental authority.
+Notice
+14
+(1) After making a species control order, an environmental authority must forthwith give
+notice of it to—
+(a)
+all owners of the premises of whom the environmental authority is aware,
+(b)
+the Secretary of State, if the environmental authority is the Environment
+Agency, Natural England or the Forestry Commissioners, and
+(c)
+the Welsh Ministers, if the environmental authority is the Natural Resources
+Body for Wales.
+(2) In the case of an order under paragraph 10(2)(d) (no identifiable owner), the
+environmental authority must also give notice of the order by placing it on the
+premises conspicuously.
+(3) Notice under this paragraph must include—
+(a)
+reasons for making the species control order, and
+(b)
+reasons for any requirement imposed by it on an owner.
+Revocation
+15
+(1) An environmental authority may at any time revoke a species control order made
+by it.
+(2) Notice of revocation must be given as specified in paragraph 14 (but reasons need
+not be given).
+Appeals
+16
+(1) An owner of premises in relation to which a species control order is made may appeal
+to the First-tier Tribunal against—
+(a)
+the making of the order, or
+(b)
+any provision of the order.
+(2) The First-tier Tribunal may—
+(a)
+affirm the order,
+(b)
+direct the environmental authority which made the order to revoke or amend
+it,
+(c)
+in the case of an order under paragraph 10(2)(c) (emergency), suspend the
+order, or
+(d)
+make such other order as the Tribunal thinks fit.
+Notice of compliance
+17
+Where an environmental authority considers that an owner of premises has
+complied with all the requirements in a species control order to carry out species
+control operations, the authority must give the owner notice to that effect.
+
+Wildlife and Countryside Act 1981 (c. 69)
+SCHEDULE 9A – Species control agreements and orders (England and Wales)
+Document Generated: 2020-12-04

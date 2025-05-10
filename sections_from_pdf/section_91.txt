@@ -1,0 +1,115 @@
+91
+Status: Point in time view as at 25/05/2020. This version of this Act contains provisions that are prospective.
+Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk
+editorial team to Wildlife and Countryside Act 1981. Any changes that have already been made by the
+team appear in the content and are referenced with annotations. (See end of Document for details)
+“specimen” means any bird, other animal [F157, plant, fungus or micro-
+organism] or any part of, or anything derived from, a bird, other animal [F157,
+plant, fungus or micro-organism].
+Textual Amendments
+F148 Ss. 19ZC, 19ZD inserted (S.) (1.10.2004) by Nature Conservation (Scotland) Act 2004 (asp 6), ss. 50,
+59, Sch. 6 para. 17; S.S.I. 2004/407, art. 2
+F149 Word in s. 19ZC(3)(a) inserted (2.7.2012) by Wildlife and Natural Environment (Scotland) Act 2011
+(asp 6), ss. 22(4)(a)(i), 43(1) (with s. 41(1)); S.S.I. 2012/175, art. 2(1)(d)
+F150 Words in s. 19ZC(3)(d) substituted (2.7.2012) by Wildlife and Natural Environment (Scotland) Act
+2011 (asp 6), ss. 22(4)(a)(ii), 43(1) (with s. 41(1)); S.S.I. 2012/175, art. 2(1)(d)
+F151 Word in s. 19ZC(3)(d) inserted (1.11.2019) by The Conservation (Natural Habitats, c.) (Miscellaneous
+Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/364), regs. 1(2), 2(5)(a)
+F152 Words in s. 19ZC(3)(e) substituted (2.7.2012) by Wildlife and Natural Environment (Scotland) Act
+2011 (asp 6), ss. 22(4)(a)(iii), 43(1) (with s. 41(1)); S.S.I. 2012/175, art. 2(1)(d)
+F153 Words in s. 19ZC(5) substituted (2.7.2012) by Wildlife and Natural Environment (Scotland) Act 2011
+(asp 6), ss. 22(4)(b), 43(1) (with s. 41(1)); S.S.I. 2012/175, art. 2(1)(d)
+F154 Word in s. 19ZC(5) inserted (1.11.2019) by The Conservation (Natural Habitats, c.) (Miscellaneous
+Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/364), regs. 1(2), 2(5)(b)
+F155 Words in s. 19ZC(9) substituted (2.7.2012) by Wildlife and Natural Environment (Scotland) Act 2011
+(asp 6), ss. 22(4)(c), 43(1) (with s. 41(1)); S.S.I. 2012/175, art. 2(1)(d)
+F156 Words in s. 19ZC(9) substituted (1.11.2019) by The Conservation (Natural Habitats, c.)
+(Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/364), regs. 1(2), 2(5)(c)(i)
+F157 Words in s. 19ZC(9) substituted (1.11.2019) by The Conservation (Natural Habitats, c.)
+(Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/364), regs. 1(2), 2(5)(c)(ii)
+Modifications etc. (not altering text)
+C16
+S. 19ZC applied (with modifications) (S.) (29.11.2004) by S.I. 1994/2716, reg. 101A(3) (as
+susbstituted by The Conservation (Natural Habitats, & c.) Amendment (Scotland) Regulations 2004
+(S.S.I. 2004/475), reg. 18
+19ZD
+Power to take samples: Scotland
+(1) A constable who suspects with reasonable cause that a specimen found by the
+constable in the exercise of powers conferred by section 19 is one in respect of which
+an offence under this Part is being or has been committed may require the taking from
+it of a sample of blood or tissue in order to determine its origin, identity or ancestry.
+(2) A constable who suspects with reasonable cause that an offence under this Part is
+being or has been committed in respect of any specimen (“the relevant specimen”)
+may require any person to make available for the taking of a sample of blood or tissue
+any specimen (other than the relevant specimen) in that person’s possession or control
+which is alleged to be, or which the constable suspects with reasonable cause to be,
+a specimen a sample from which will tend to establish the origin, identity or ancestry
+of the relevant specimen.
+(3) A wildlife inspector may, for the purpose of ascertaining whether an offence under
+section 6, 7, 9(5), [F15811I(1), 13(2), 14, 14ZC, 14A, [F15914AA,] 14B or 14K] is
+being or has been committed, require the taking of a sample of blood or tissue
+from a specimen found by the inspector in the exercise of powers conferred by
+section 19ZC(3)(a) to (d) in order to determine its origin, identity or ancestry.
+
+92
+Wildlife and Countryside Act 1981 (c. 69)
+Part I – Wildlife
+Document Generated: 2020-12-04
+Status: Point in time view as at 25/05/2020. This version of this Act contains provisions that are prospective.
+Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk
+editorial team to Wildlife and Countryside Act 1981. Any changes that have already been made by the
+team appear in the content and are referenced with annotations. (See end of Document for details)
+(4) A wildlife inspector may, for the purpose of ascertaining whether an offence under
+section 6, 7, 9(5), [F15811I(1), 13(2), 14, 14ZC, 14A, [F16014AA,] 14B or 14K] is being
+or has been committed in respect of any specimen (“the relevant specimen”), require
+any person to make available for the taking of a sample of blood or tissue any specimen
+(other than the relevant specimen) in that person’s possession or control which is
+alleged to be, or which the inspector suspects with reasonable cause to be, a specimen a
+sample from which will tend to establish the origin, identity or ancestry of the relevant
+specimen.
+(5) No sample from a live bird, other animal or plant shall be taken pursuant to a
+requirement under this section unless the person taking it is satisfied on reasonable
+grounds that taking the sample will not cause lasting harm to the specimen.
+(6) No sample from a live bird or other animal shall be taken pursuant to such a
+requirement except by a veterinary surgeon.
+(7) Where a sample from a live bird or other animal is to be taken pursuant to such a
+requirement, any person who has possession or control of the specimen shall give the
+person taking the sample such assistance as that person may reasonably require for
+that purpose.
+(8) A constable entering premises under section 19(2), and any wildlife inspector entering
+premises under section 19ZC(3), may take with him a veterinary surgeon if the
+constable or, as the case may be, inspector has reasonable grounds for believing that
+such a person will be required for the exercise on the premises of powers under
+subsection (1) or (2) or, as the case may be, (3) or (4).
+(9) Any person who—
+(a)
+intentionally obstructs a wildlife inspector acting in the exercise of the power
+conferred by subsection (3),
+(b)
+fails without reasonable excuse to make available any specimen in accordance
+with a requirement under subsection (2) or (4), or
+(c)
+fails without reasonable excuse to give any assistance reasonably required
+under subsection (7),
+shall be guilty of an offence.
+(10) In this section—
+(a)
+“specimen” has the same meaning as in section 19ZC;
+(b)
+in relation to a specimen which is a part of, or is derived from, a bird, other
+animal or plant, references to determining its origin, identity or ancestry are to
+determining the origin, identity or ancestry of the bird, other animal or plant.
+[
+F161(c)
+“tissue” means any type of biological material other than blood.]]
+Textual Amendments
+F148 Ss. 19ZC, 19ZD inserted (S.) (1.10.2004) by Nature Conservation (Scotland) Act 2004 (asp 6), ss. 50,
+59, Sch. 6 para. 17; S.S.I. 2004/407, art. 2
+F158 Words in s. 19ZD(3)(4) substituted (2.7.2012) by Wildlife and Natural Environment (Scotland) Act
+2011 (asp 6), ss. 22(5)(a), 43(1) (with s. 41(1)); S.S.I. 2012/175, art. 2(1)(d)
+F159 Word in s. 19ZD(3) inserted (1.11.2019) by The Conservation (Natural Habitats, c.) (Miscellaneous
+Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/364), regs. 1(2), 2(6)(a)
+
+Wildlife and Countryside Act 1981 (c. 69)
+Part I – Wildlife
+Document Generated: 2020-12-04

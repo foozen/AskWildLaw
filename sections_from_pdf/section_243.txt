@@ -1,0 +1,124 @@
+243
+Status: Point in time view as at 25/05/2020. This version of this Act contains provisions that are prospective.
+Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk
+editorial team to Wildlife and Countryside Act 1981. Any changes that have already been made by the
+team appear in the content and are referenced with annotations. (See end of Document for details)
+Enforcement
+18
+(1) This paragraph applies where an environmental authority considers that an owner of
+premises required by a species control order to carry out a species control operation
+has not done so by the date or in the way specified in the order.
+(2) The authority must give the owner notice to that effect.
+(3) Sub-paragraphs (4) to (6) apply if, after a week after giving notice under sub-
+paragraph (2), the authority considers that the owner has still not carried out the
+species control operation in the way specified in the order.
+(4) The authority may carry out the operation itself or carry out such further work as is
+necessary to ensure that the operation is carried out in the way specified in the order.
+(5) The authority may recover from the owner any expenses reasonably incurred by it in
+doing so (less any payment which the authority would apart from this paragraph have
+been required to make to the owner in respect of the carrying out of the operations
+by the owner).
+(6) The authority is not required to make any payment provided for under paragraph
+13(2)(b) in relation to the operation (and may recover any payment made under that
+paragraph).
+Offences
+19
+(1) A person who, without reasonable excuse, fails to comply with a requirement
+imposed on that person by a species control order commits an offence.
+(2) A person who intentionally obstructs a person from carrying out an operation
+required or proposed under a species control order commits an offence.
+(3) A person guilty of an offence under sub-paragraph (1) or (2) is liable on summary
+conviction to imprisonment for a term not exceeding 51 weeks, or a fine, or both.
+(4) In relation to an offence committed before section 281(5) of the Criminal Justice Act
+2003 comes into force, the reference in sub-paragraph (3) to 51 weeks is to be read
+as a reference to 6 months.
+(5) In relation to an offence committed before section 85 of the Legal Aid, Sentencing
+and Punishment of Offenders Act 2012 comes into force, the reference in sub-
+paragraph (3) to a fine is to be read as a reference to a fine not exceeding £40,000.
+Liability
+20
+(1) An owner of premises is not liable to any other person for doing anything required
+to be done by a species control order.
+(2) An environmental authority is not liable to a person with an interest in premises for
+anything done—
+(a)
+by an owner pursuant to a requirement included in a species control order, or
+(b)
+by the authority pursuant to—
+(i) provision included in a species control order under paragraph 11(1)
+(b), (2)(b) or (3), or
+(ii) paragraph 18(4).
+
+244
+Wildlife and Countryside Act 1981 (c. 69)
+SCHEDULE 9A – Species control agreements and orders (England and Wales)
+Document Generated: 2020-12-04
+Status: Point in time view as at 25/05/2020. This version of this Act contains provisions that are prospective.
+Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk
+editorial team to Wildlife and Countryside Act 1981. Any changes that have already been made by the
+team appear in the content and are referenced with annotations. (See end of Document for details)
+PART 4
+POWERS OF ENTRY
+Powers of entry
+21
+(1) A person who is authorised to do so may enter any premises to—
+(a)
+assist an environmental authority to determine whether to offer to enter into
+a species agreement with a person,
+(b)
+assist an environmental authority to determine whether to make or revoke
+a species control order,
+(c)
+investigate suspected non-compliance with a species control agreement or a
+species control order,
+(d)
+carry out species control operations for an environmental authority under a
+species control order,
+(e)
+place a notice as specified in paragraph 10(2)(d)(i) or 14(2) (no identifiable
+owner), or
+(f)
+carry out species control operations or work pursuant to paragraph 18(4).
+This is subject to the other provisions of this Schedule.
+(2) A person may not enter premises under sub-paragraph (1)(a) or (b) with a view
+to establishing whether a species is present unless the environmental authority has
+reasonable grounds for suspecting that it is.
+Authorisation by justice of the peace
+22
+(1) To enter premises under paragraph 21 a person must be authorised by a warrant issued
+by a justice of the peace where—
+(a)
+the premises consist of a dwelling or a garden, yard, outbuildings or other
+land used or enjoyed wholly with a dwelling,
+(b)
+admission to the premises has been refused by an owner or refusal is
+reasonably apprehended,
+(c)
+the premises are unoccupied,
+(d)
+the owner is temporarily absent,
+(e)
+giving notice would defeat the purpose of entry,
+(f)
+entry is to carry out species control operations for an environmental authority
+under an order under paragraph 10(2)(c) (emergency),
+(g)
+entry is to carry out species control operations for an environmental authority
+under an order under paragraph 10(2)(d) (no identifiable owner),
+(h)
+entry is to place a notice as specified in paragraph 10(2)(d)(i) or 14(2), or
+(i)
+entry is to carry out operations or work pursuant to paragraph 18(4) which
+the environmental authority considers to be urgently necessary.
+(2) A justice of the peace may not grant a warrant—
+(a)
+in the circumstances in sub-paragraph (1)(a) to (d) unless satisfied that
+reasonable notice of the proposed entry has been given to all owners of the
+premises of whom the environmental authority is aware, or
+(b)
+in the circumstances in paragraph (1)(g) unless satisfied that the requirement
+in paragraph 14(2) (notice) has been met.
+
+Wildlife and Countryside Act 1981 (c. 69)
+SCHEDULE 9A – Species control agreements and orders (England and Wales)
+Document Generated: 2020-12-04

@@ -1,0 +1,691 @@
+ 
+ 
+SSSI Regulation Operational Standard  
+Content Owner: Director, Greener Farming and Fisheries Programme 
+Content creator: Protected Sites Team (Strategy) & Legal Services 
+Version 24/01/2024  
+1 
+Natural England Standard     
+SSSI Regulation 
+1:0 About this standard 
+Introduction 
+Sites of Special Scientific Interest (SSSIs) safeguard England’s most important areas of natural 
+heritage. The Wildlife & Countryside Act 1981 and subsequent amending legislation1 (referred to in this 
+document as ‘the Act’) places a legal duty on Natural England to act for the benefit of SSSIs and take 
+reasonable steps, consistent with the proper exercise of its functions, to further the conservation and 
+enhancement of the special scientific interest of SSSIs2. 
+In order to provide all SSSIs with protection from potentially harmful activities, the Act 
+requires: 
+• 
+owners and occupiers of SSSI land proposing to carry out or permit operations that 
+may damage the special interest of their SSSI to first apply for Natural England’s 
+consent.  
+• 
+public bodies proposing to carry out operations which they consider are likely to 
+damage the features of special interest within a SSSI (whether within or outside the 
+boundary of an SSSI) to first apply for Natural England’s assent  
+• 
+public bodies proposing to authorise or permit others to carry out operations that may 
+be likely to damage the special interest of a SSSI (whether within or outside the 
+boundary of an SSSI) to first seek Natural England’s advice 
+What does this standard cover? 
+This operational standard, which is informed by Natural England’s SSSI Strategic 
+Standard, explains the guiding principles that Natural England applies when exercising the 
+legal powers given to it by Section 28 of the Act with regard to: 
+ 
+• 
+Consents (section 28E of the Act) — issued in response to a written notice of 
+proposal from an owner or occupier of an SSSI. Natural England may grant consent 
+for the proposed operations, with or without conditions, or refuse to grant consent for 
+the proposed operations if it considers that the proposal is not compatible with 
+furthering the conservation and enhancement of the SSSI. The operations that require 
+ 
+1 The Wildlife and Countryside Act 1981 was amended by the Countryside Rights of Way Act 2000 and the Natural Environment and Rural 
+Communities Act 2006. 
+2 Section 28G of the Act 
+
+ 
+ 
+SSSI Regulation Operational Standard  
+Content Owner: Director, Greener Farming and Fisheries Programme 
+Content creator: Protected Sites Team (Strategy) & Legal Services 
+Version 24/01/2024  
+2 
+Natural England’s consent (also previously referred to as ‘Operations Likely to 
+Damage’ (OLDs)) are formally listed in the notification documents of each SSSI and 
+are relevant to the notified features for which that SSSI has been selected.  
+• 
+Assents (section 28H of the Act) — issued in response to a written notice of 
+proposal from a public body, such as a government department or agency, local 
+authority or statutory undertaker3, requesting permission to undertake operations, in 
+the exercise of their functions, which that authority considers is likely to damage a 
+SSSI. On determination of the notice, Natural England may grant its assent, grant its 
+assent with conditions or refuse to grant its assent if it considers that the proposal is 
+not compatible with furthering the conservation and enhancement of the special 
+interest of the site. 
+• 
+Advice (section 28I of the Act) — issued in response to a consultation from a public body 
+when it is deciding whether to authorise or permit an operation proposed by others. This is 
+the case whether they may permit the operations following an application required by a 
+statutory authorisation regime, or whether they are acting as a SSSI landowner and wish to 
+permit a third party to carry out operations on their SSSI land. Natural England may advise 
+against giving permission for operations that may damage the special interest of the site or 
+advise that conditions be attached to a permission to prevent or mitigate the operations 
+causing damage. 
+The diagram in Annex 1 illustrates the three regulatory pathways (consents, assents, and 
+advice) applied by Section 28 of the Act to help protect SSSIs. GOV.UK provides further public 
+guidance4. 
+Who is this standard for? 
+This standard has a wide audience. It is essential that the owners and occupiers of SSSIs understand 
+the regulatory pathway for consent decisions under Section 28E and that public bodies understand the 
+regulatory pathway for assent decisions under Section 28H and for statutory Section 28I advice.  
+It will be useful for other parties to understand how to gain the necessary permissions that may be 
+required when proposing to undertake events or activities on SSSI land owned by owners, occupiers, or 
+public bodies. 
+ 
+ 
+ 
+3 Examples include Environment Agency, Forestry Commission, Local Authority, utility companies, Ministry of Defence, Network Rail and 
+Highways England 
+4 There are two pages of public guidance that relate to the process through which SSSI owners and occupiers can give notice and apply for a 
+consent decision, and the duties of public body responsibilities: Sites of special scientific interest: managing your land - GOV.UK (www.gov.uk) 
+and Sites of special scientific interest: public body responsibilities - GOV.UK (www.gov.uk) 
+
+ 
+ 
+SSSI Regulation Operational Standard  
+Content Owner: Director, Greener Farming and Fisheries Programme 
+Content creator: Protected Sites Team (Strategy) & Legal Services 
+Version 24/01/2024  
+3 
+2:0 The Standard 
+Natural England is committed to working closely with land managers and others (our SSSI customers) 
+who wish to submit notices and seek advice concerning SSSI regulation.  
+Our aim is to ensure we respond to all enquiries in a timely and efficient manner and that we explain 
+the reasons for our advice and decisions clearly.  
+In implementing our legal duties, we will apply the following principles: 
+1. 
+Ensure that customers can easily access the information on individual SSSIs that Natural 
+England uses to inform its decision making 
+In addition to directly providing these to owners, occupiers and public bodies when a SSSI is first 
+notified, Natural England publishes the statutory notification documents for each SSSI on its website5.  
+These are important references in the decision-making processes affecting SSSIs and comprise: 
+• 
+A Citation, which describes the special nature conservation interest for which the site has been 
+selected as a SSSI 
+• 
+A Map showing the extent of the SSSI boundary 
+• 
+A List of Operations that require Natural England’s consent (‘ORNECs’) (also previously referred 
+to as ‘Operations Likely to Damage’ (‘OLDs’), and 
+• 
+A Statement providing Natural England’s views about the management of the land which is 
+necessary to conserve the SSSI. 
+2. 
+Encourage customers to discuss their proposals with us before submitting a notice 
+We encourage our SSSI customers (owner/occupiers and public bodies) to contact us prior to 
+submitting a notice to undertake activity affecting a SSSI. Owner/occupiers should only consult where 
+the proposed operation equates with an operation which is described in ‘the list of operations requiring 
+Natural England’s consent’ for their SSSI and where the proposed operation would be carried out within 
+the boundary of the SSSI.  
+Public bodies should consult Natural England where they consider that an operation would be likely to 
+damage the features of special interest, whether the operation is to take place within the boundary of 
+the SSSI or not.  By discussing proposed operations in advance of the submission of a formal notice, 
+both parties can consider at an early stage if and how the work can be undertaken in a way that 
+protects the special feature of the SSSI. 
+Natural England can provide informal advice to an owner or occupier or public body about any 
+proposed operations before a notice is submitted. Once notice has been given and a written proposal 
+submitted, Natural England must then assess the likely ecological impacts of the operations as 
+requested and described in the notice. Further dialogue with the applicant during this statutory 
+determination period is limited to requests for additional information to inform the decision.  
+Should the owner or occupier or public body choose to significantly change their submitted proposal, 
+they can withdraw their notice at any point and Natural England can provide further advice to help 
+ 
+5 https://designatedsites.naturalengland.org.uk 
+
+ 
+ 
+SSSI Regulation Operational Standard  
+Content Owner: Director, Greener Farming and Fisheries Programme 
+Content creator: Protected Sites Team (Strategy) & Legal Services 
+Version 24/01/2024  
+4 
+inform a new notice. 
+Natural England’s initial advice to SSSI customers will usually be free but in some circumstances, 
+Natural England may charge for its advice under its pre-application Discretionary Advice Service (DAS). 
+This can be especially helpful to SSSI customers if detailed advice is needed on avoidance of damage, 
+mitigation strategies to reduce damage to the environment, or if advice is required quickly (in less than 
+28 days). DAS contracts6 must be agreed in advance of the advice being given and are particularly 
+relevant for proposed operations that are not necessary for the conservation of the site. 
+3.  Adopt an approach to our decision making on consents and assents which seeks to find 
+solutions whilst ensuring the protection of the SSSI 
+Natural England will, as far as practicable, seek to identify workable solutions that both protect the 
+features of special interest of the site and support the legitimate activities of landowners, land managers 
+and public bodies.  
+When making its decisions, Natural England will assess whether it is possible to carry out the 
+operations identified as likely to damage a SSSI in ways that are compatible with furthering the 
+conservation and enhancement of the special interest of the site, for example by using certain methods, 
+or at specific times of year, or on certain parts of the SSSI.  
+Where it is not possible to grant our consent/assent to a proposed operation, Natural England will, 
+where practicable, work with land managers and public bodies to explore alternative solutions or 
+proposals to achieve similar outcomes, which would enable a consent/assent to be granted in future. 
+4. Respond to SSSI notices from owner occupiers of SSSIs in a timely and efficient manner 
+A notice must be drafted by a notified owner or occupier (or someone authorized to act on their behalf) 
+and should be submitted in writing to Natural England’s Single Point of Contact at 
+protectedsites@naturalengland.org.uk. Natural England will acknowledge the receipt of a notice with 
+an automated reply email.  
+Annex 2 details the information that Natural England generally recommends should be included in a 
+notice. Providing sufficient information about where, what, when and how the operations would be 
+undertaken if permitted can help to ensure a timely decision. If we consider the correspondence 
+describing proposed operations cannot be recognised as a notice, we will respond as promptly as 
+possible, providing an explanation, for example where a notice is submitted by a third party.  
+On receiving a notice Natural England will first check for any existing consents which already authorise 
+the proposed operations. This will prevent the unnecessary duplication or ‘layering’ of permissions and 
+allow previously consented operations to proceed quickly subject to the acquisition by the SSSI consent 
+holder of any other permissions from other bodies. Natural England will inform the applicant if they 
+already have a consent for the operations that they have proposed. 
+Under the provisions of the Act, Natural England has up to four months from the date on which the notice 
+was sent to Natural England in which to determine a Section 28E notice. Natural England will however 
+strive to respond to notices within 28 days. For complex cases, where a site visit and/or specialist 
+ 
+6 You can find further information about Natural England’s DAS at https://www.gov.uk/guidance/sites-of-special-scientific-interest-public-body-
+responsibilities#get-free-or-charged-advice-from-natural-england 
+
+ 
+ 
+SSSI Regulation Operational Standard  
+Content Owner: Director, Greener Farming and Fisheries Programme 
+Content creator: Protected Sites Team (Strategy) & Legal Services 
+Version 24/01/2024  
+5 
+advice is required, the whole of this statutory period may be required.  
+More complex cases can include proposals affecting those SSSIs which are also part of the National 
+European Site Network7 because Natural England will also need to undertake a ‘Habitats Regulations 
+Assessment’ to inform its Section 28E consent decisions. In circumstances where the Habitat Regulations 
+Assessment indicates that a more detailed ’appropriate assessment’ is required it may take up to four 
+months to reach a decision (see principle 6). Natural England must also ensure that its SSSI consent 
+decisions do not hinder the conservation objectives for Marine Conservation Zones. 
+Where Natural England concludes that the proposed operations would, if carried out, cause damage or 
+disturbance to the notified features of a SSSI, it may be necessary for Natural England to attach 
+conditions to a consent to prevent or mitigate such damage or disturbance or refuse to grant consent. 
+Where consent is granted with conditions, or where consent is refused, then a statement clearly 
+explaining our reasons for doing so will be provided.  
+The applicant will be informed about their right to appeal against such decisions to the Secretary of 
+State and how to lodge an appeal if they choose to. 
+5. Respond to SSSI notices from public bodies in a timely and efficient manner 
+A notice should be submitted in writing to Natural England’s Single Point of Contact at 
+protectedsites@naturalengland.org.uk. Natural England will acknowledge the receipt of notices with 
+an automated email reply. 
+Public bodies should provide sufficient information about where, what, when and how the operations 
+would be undertaken to enable Natural England to make a decision. Where the SSSI underpins a 
+European site, there is an expectation that public bodies include a copy of their Habitats Regulations 
+Assessment (as required by the Habitats Regulations 2017) that informed the development of their 
+proposed operations. 
+Under the provisions of the Act, Natural England has 28 days from the date on the notice to determine a 
+notice for assent. On receiving a notice at the Single Point of Contact, Natural England will first check 
+for any existing assents that may already authorise the proposed operations. This will prevent the 
+unnecessary duplication or ‘layering’ of permissions and allow previously assented operations to 
+proceed quickly. Natural England will inform the public body if they already have a permission for the 
+operations that they have proposed. 
+Statutory bodies requiring assent for their operations have the duty to conserve and enhance the SSSI’s 
+special interest whilst exercising their functions. Where proposals do not meet with this duty, Natural 
+England will inform that body as soon as possible and, where practicable, explore whether there are 
+other ways in which their operations can be carried out that are more compatible with furthering the 
+conservation and enhancement of the special interest of the site. 
+Where Natural England concludes that the proposed operations would cause damage or disturbance to 
+ 
+7 Sites within the National European Site Network are Special Areas of Conservation (SAC) and Special Protection Areas (SPA) designated by 
+Government under the Conservation of Habitats and Species Regulations 2017 (as amended). Wetlands of International Importance (Ramsar 
+Sites) designated under the terms of the Ramsar Convention are also subject to the provisions of the Habitats Regulations as a matter of 
+Government policy, although they are not legally a part of the National European Site Network 
+
+ 
+ 
+SSSI Regulation Operational Standard  
+Content Owner: Director, Greener Farming and Fisheries Programme 
+Content creator: Protected Sites Team (Strategy) & Legal Services 
+Version 24/01/2024  
+6 
+the notified features, it may be necessary for Natural England to grant assent with conditions or refuse to 
+grant its assent.  
+Natural England must also ensure that any SSSI assent decisions do not hinder the conservation 
+objectives for Marine Conservation Zones. 
+6. 
+Provide clear advice to public bodies in relation to our duties to support their decision 
+making 
+When a consultation for Section 28I advice has been submitted to the Single Point of Contact mailbox at 
+protectedsites@naturalengland.org.uk, Natural England will acknowledge receipt with an automated 
+response email.  
+Local planning authorities should submit their requests for advice on planning applications to 
+consultations@naturalengland.org.uk. 
+Natural England will respond within 28 days of the date on a notice from a public body seeking our 
+advice about whether an operation should proceed on a SSSI. Our response letter will state whether we 
+consider the proposed operation to be compatible with furthering the conservation and enhancement of 
+the special interest of the site.  
+If we believe that this duty could be met by applying conditions, then our advice letter will include our 
+reasons for this and further details about the required conditions which the public body should set 
+when granting its permission. We will clearly explain the advice we have given, drawing on the best 
+available evidence to determine what the potential impacts might be and if they might be mitigated. 
+If a consultation does not provide adequate information, we will communicate this as early as possible to 
+allow further details to be provided.  
+7. Work with public bodies who decide to proceed contrary to Natural England’s assent 
+decision or advice. 
+Before a public body decides to proceed with operations without Natural England’s assent, or grants 
+permission for operations contrary to our advice, it is required by the Act to give Natural England further 
+written notice (at least 28 days if proposing to carry out their own work or 21 days if proposing to permit 
+an operation). This notice should include an explanation of how it has considered any advice previously 
+provided by Natural England.  
+Where a public body decides to act contrary to Natural England’s advice, it is required to demonstrate 
+how it has weighed the balance between differing interests, including the special interest of the SSSI. It 
+should also demonstrate how it has considered alternative methods of carrying out the operations to 
+minimise adverse impact. Should the public body proceed and carry out its own operations that are 
+likely to cause damage, it must restore the site to its former condition, so far as is reasonably 
+practicable, if any damage does occur. 
+Where Natural England remains concerned about the significance of the likely impacts on a site’s 
+notified features, it may consider taking further action, including a referral of the case to the Secretary 
+of State. 
+8. Ensure that SSSIs which are also designated as part of the National European Site Network 
+series are subject to the requirements of the Habitats Regulations 
+
+ 
+ 
+SSSI Regulation Operational Standard  
+Content Owner: Director, Greener Farming and Fisheries Programme 
+Content creator: Protected Sites Team (Strategy) & Legal Services 
+Version 24/01/2024  
+7 
+Where the SSSI is also designated as a European Site (i.e. a SAC or SPA), the Conservation of 
+Habitats and Species Regulations 2017 (as amended) (“the Habitats Regulations”) places additional 
+obligations on Natural England when considering applications for SSSI consent.  
+If, in our judgment, a proposed ‘plan or project’ (including a notice for SSSI consent) is not ‘directly 
+connected with or necessary for the nature conservation management of the site’ and is ‘likely to have 
+a significant effect’ on the site (either alone or in combination with other plans or projects), then it is 
+mandatory that an ‘appropriate assessment’ of the proposal is undertaken to thoroughly assess the 
+likely ecological impacts in more detail. Consent can only be granted by Natural England if it can be 
+concluded following that assessment that the plan or project will not have an adverse effect on the 
+integrity of the European site8.  
+Under the Habitats Regulations, a ‘competent authority’ such as a public body must undertake its own 
+Habitats Regulations Assessment to inform decision making in relation to any ‘plan or project’ that it 
+wishes to undertake or adopt itself or is required to authorise.  
+9. Base our decisions on the best available evidence and the likely impact of the proposed 
+operation on the site’s notified features 
+Natural England will consider whether each proposal is compatible with furthering the conservation and 
+enhancement of the special interest of the site in accordance with its statutory duty. In undertaking this 
+assessment, we will follow our Evidence Standards and use the best available evidence and our 
+professional expertise and judgment.  
+A key part of our evidence base will be the SSSI citation and associated documentation to identify the 
+interest feature(s) that could be affected by a proposal. Staff will determine proposals and reach a 
+decision considering the conservation objectives for that SSSI and the scientific evidence available 
+about the ecological requirements of the affected features, together with their local knowledge of the 
+site, professional expertise, and practical experience. This will be informed by specialist advice and 
+opinion where required. 
+Where there is evidence that a previously consented activity is no longer compatible with furthering the 
+conservation and enhancement of the special interest of the SSSI, Natural England can use its powers 
+under the Act to modify or withdraw an existing consent. This is subject to a right of appeal if the 
+consent holder is aggrieved by that decision and compensation may be payable where the consent 
+holder can show that the changes to the consent will result in a loss in the value of the SSSI land. 
+10. Record all decisions to create a clear audit trail 
+All notices received by Natural England will be recorded on our casework management system and all 
+associated documents including unconditional, conditioned, and refused consents/assents, and advice 
+to public bodies will be stored in accordance with our Records Management guidance. 
+ 
+11. Ensure all decisions are made on a case-by-case basis and adhere to current procedures 
+governing our decision making 
+ 
+8 See Natural England’s Habitats Regulation Assessment Operational Standard: http://publications.naturalengland.org.uk/publication/8740045  
+
+ 
+ 
+SSSI Regulation Operational Standard  
+Content Owner: Director, Greener Farming and Fisheries Programme 
+Content creator: Protected Sites Team (Strategy) & Legal Services 
+Version 24/01/2024  
+8 
+All notices of proposal submitted by SSSI owner/occupiers for a consent decision or by public bodies 
+for an assent decision will be treated by Natural England on their own merits based on the detail of the 
+proposal provided in the notice and its predicted impacts in relation to the SSSI’s notified features. The 
+granting of a consent/assent, the refusal of a consent/assent, or the attachment of conditions to a 
+consent/assent on one SSSI does not in itself set a wider precedent for others. 
+Our staff will abide by Natural England’s Non-Financial Scheme of Delegations9 for issuing consents, 
+assents, and advice. The Scheme describes the individual decision-making authority that Natural 
+England staff have in relation to their role and grade and highlights when decisions are required to be 
+agreed and endorsed by a more senior officer.  
+12. Ensure that our staff have the appropriate training and support to undertake our 
+responsibilities regarding consents, assents, and advice 
+All staff with responsibilities for determining consents, assents, and advice notices for SSSIs will have 
+received the appropriate ecological and SSSI training and have access to up to date guidance and 
+support. 
+ 
+ 
+9 https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/975871/natural-england-non-financial-
+scheme-of-delegation.pdf 
+
+ 
+ 
+SSSI Regulation Operational Standard  
+Content Owner: Director, Greener Farming and Fisheries Programme 
+Content creator: Protected Sites Team (Strategy) & Legal Services 
+Version 24/01/2024  
+9 
+Annexes 
+Annex 1: Consent (Section 28E), Assent (Section 28H) or Advice (Section 28I) 
+The first step is to determine the type of notice or consultation 
+ 
+Public body - Section 28G bodies are broadly 
+defined in the Act, but specifically include the 
+Secretary of State, government departments 
+and agencies, local authorities and statutory 
+undertakers (whether in the public sector or a 
+privatised utility), and other officers appointed 
+by the Crown. Examples include: Environment 
+Agency, Forestry Commission, Local Planning 
+Authority, Utility companies (water or 
+electricity). MoD, Network Rail  
+Permitting – where a public body has the power 
+to grant a Permission for others to undertake 
+works, e.g. EA abstraction licence, or a Local 
+Authority planning permission, situations where 
+a public owns land and wishes to permit a third 
+party to carry out operations, situations where 
+a public body intends to serve a notice under 
+any regulatory regime. 
+Third party/member of the public - A notice of
+proposal can only be submitted by an 
+owner/occupier of the SSSI. 
+Where it has been confirmed that an agent is 
+acting on behalf of an owner/occupier, they can 
+submit a notice 
+Members of the public would need to seek the
+permission of the owner/occupier who in turn 
+would need to seek consent. 
+Undertaking – a public body carrying out its 
+functions, e.g. EA undertaking flood defence 
+works, or a Local Authority maintaining a right of 
+way. 
+Function – this is a broad definition that includes 
+all the duties and powers of a public body 
+including any activities it has the power to 
+perform. 
+Who is consulting 
+Natural England? 
+Public body 
+(Section 28G body) 
+Is the proposed operation part of the 
+public body’s function(s)? 
+SSSI owner or 
+occupier 
+Consent 
+(Section 28E) 
+Third party or 
+member of the 
+public 
+Is the public body 
+permitting the 
+operation? 
+Is the public body 
+undertaking the proposed 
+operation? 
+No 
+Yes 
+Assent 
+(Section 28H) 
+Advice 
+(Section 28I) 
+
+ 
+ 
+SSSI Regulation Operational Standard  
+Content Owner: Director, Greener Farming and Fisheries Programme 
+Content creator: Protected Sites Team (Strategy) & Legal Services 
+Version 24/01/2024  
+10 
+Annex 2: A recommendation as to the information that might be included in a notice of 
+proposal for proposed operations requiring SSSI consent  
+Owners/ occupiers (or their nominated agents and representatives) and public bodies are required to 
+submit a notice of proposed operation in writing, either by letter or email. Whatever form a notice takes, 
+it must specify the nature of the proposed operations and the land on which it is proposed to carry it 
+out.  
+The recommended information that should be included in a notice, and a template for writing a notice, 
+are both available online from the GOV.UK page ‘Give notice and get consent for a planned activity on 
+a SSSI’.  
+For Natural England to determine a notice, we need sufficient detail to be able to make a judgment on 
+the impacts of the proposals. 
+The following information should be included:  
+• 
+site name 
+• 
+name and address of applicant 
+• 
+a clear and detailed description of what you intend to do, and how you intend to do it 
+• 
+the start and end dates for the operation or activity 
+the precise location of the proposed operation or activity (send a map with notes if you can)  
+You should include as much relevant information about your proposal, such as: 
+• 
+what if any vehicles will need access to the site, the routes they’ll take and ground pressure 
+they’ll exert (particularly across fens and bogs) 
+• 
+how you’ll remove any spoil from the site 
+• 
+the origin and chemical nature of any materials you’ll bring onto the site  
+Natural England may contact you if it needs: 
+• 
+more details about your request 
+• 
+to clarify any issues about your request 
+ 
+
+ 
+ 
+SSSI Regulation Operational Standard  
+Content Owner: Director, Greener Farming and Fisheries Programme 
+Content creator: Protected Sites Team (Strategy) & Legal Services 
+Version 24/01/2024  
+11 
+Annex 3. Glossary 
+Term 
+Definition 
+Occupier 
+The occupier is someone who, although lacking the title of an 
+owner, nevertheless stands in such a comprehensive and stable 
+relationship with the land as to be, in company with the actual 
+owner, someone to who the mechanisms can sensibly be made 
+to apply 
+Owner  
+A person, other than a mortgagee not in possession, who, 
+whether in his own right or as trustee or agent for any other 
+person, is entitled to receive the rack rent of the land or, where 
+the land is not let at a rack rent, would be entitled if it were so let. 
+Section 28E 
+This is the section of the Wildlife and Countryside Act (1981) as 
+amended that places the obligation on SSSI owner/occupiers to 
+give notice to Natural England about proposed operations and 
+provides the mechanisms through which consent decisions are 
+made, either to grant consent, grant consent with conditions, 
+refuse to grant consent or withdraw or modify a consent. 
+Section 28G 
+This is the section of the Wildlife and Countryside Act (1981) as 
+amended that places a general duty on all public bodies (referred 
+to as ‘section 28G authorities’) to take reasonable steps when 
+exercising their functions to further the conservation and 
+enhancement of SSSIs.  
+Section 28H 
+This is the section of the Wildlife and Countryside Act (1981) as 
+amended that provides the mechanisms through which assent 
+decisions are made, either to grant assent, grant assent with 
+conditions, refuse to grant assent  
+Section 28I 
+This is the section of the Wildlife and Countryside Act (1981) as 
+amended that provides the mechanism through which a section 
+28G authority must give notice of proposed operations to Natural 
+England before permitting the carrying out of operations likely to 
+damage any of the flora, fauna or geological or physiographical 
+features by reason of which a site of special scientific interest is 
+of special interest. 
+Third Party 
+In this instance, a third party refers to any individual or 
+organization that is not a notified owner or occupier of land within 
+an SSSI, and is not a public body 
+
+ 
+ 
+SSSI Regulation Operational Standard  
+Content Owner: Director, Greener Farming and Fisheries Programme 
+Content creator: Protected Sites Team (Strategy) & Legal Services 
+Version 24/01/2024  
+12 
+Quick reference 
+ 
+Document Amendment Record 
+Issue Amendment detail 
+Author 
+Date 
+0.1 
+First draft 
+Lydia Speakman 7.11.12 
+0.2 
+2
+nd draft following scoping call 
+Lydia 
+Speakman/ 
+Tim Frayling 
+28.11.12 
+0.3 
+Draft incorporating Lydia Speakman, 
+Steve 
+Clifton and Phil Eckersley comments 
+Lydia 
+Speakman/ 
+Tim Frayling 
+23.1.13 
+0.4 
+Revised following conversation 
+between Lydia 
+Speakman and Tim Frayling 
+Lydia Speakman 24.1.13 
+0.5 
+Revised following comments from 
+Simon 
+Stonehouse & Rebecca Moberly 
+Lydia Speakman 13.2.13 
+0.6 
+Revised following detailed comments 
+by 
+Jonathan Pearce to improve its 
+accessibility 
+Lydia Speakman 11.3.13 
+0.7 
+Revised to include comments from 
+Steve 
+Clifton and Kay Shuard 
+Lydia Speakman 26.3.13 
+0.8 
+Revised to include Janette Ward 
+comments 
+and LM adviser user testing feedback 
+Tim Frayling 
+5.6.13 
+1.0 
+Revised to include Brad Tooze 
+comments 
+Tim Frayling 
+11.07.13 
+2.0 
+Revised to include comments from 
+Ken Roy 
+and Tim Frayling 
+Jonathan 
+Pearce 
+23.09.13 
+Type of Standard 
+Operational standard.  
+Purpose: 
+To set out and explain the regulatory principles and 
+mandatory requirements for Natural England to follow when 
+making decisions in relation to notices for consent and 
+assent, and consultations for advice, relating to Sites of 
+Special Scientific Interest (SSSIs) 
+ 
+Owner(s): 
+Programme Director, Greener Farming and Fisheries  
+Sign-off: 
+Principal Adviser Protected Sites Team and Principal Adviser 
+Legal Services Team 
+Publication: 
+Evidence Catalogue – external version 
+Review date: 
+November 2024 
+
+ 
+ 
+SSSI Regulation Operational Standard  
+Content Owner: Director, Greener Farming and Fisheries Programme 
+Content creator: Protected Sites Team (Strategy) & Legal Services 
+Version 24/01/2024  
+13 
+Issue Amendment detail 
+Author 
+Date 
+2.1 
+Incorporating final comments from 
+Janette 
+Ward and Ian Fugler, confirmed by 
+Tim Fraying 
+Jonathan 
+Pearce 
+07.10.13 
+2.1 
+Published 
+KH 
+07.10.13 
+2.1 
+Published in 2014 template. No 
+changes to content 
+KH 
+26.08.15 
+3.1 
+Revised to reflect (a) the EU Exit 
+amendments made to the Habitats 
+Regulations in 2021; (b) legal 
+clarifications; and (c) the availability 
+of Natural England’s Discretionary 
+Advice Service. Links to GOV.UK 
+guidance pages updated.  
+Richard 
+Leishman with 
+advice from 
+Helen Gill, Steve 
+Clifton and 
+Katherine Tonge 
+07.10.2022 
+3.2 
+Submitted to content owner for sign 
+off and re-published 
+Steve Clifton 
+14.10.2022 
+3.3 
+Resolution of formatting and 
+accessibility issues 
+Alice Shaw and 
+Richard 
+Leishman 
+27.02.2023 
+3.4 
+Published externally  
+Alice Shaw 
+16.03.2023 
+3.5 
+Corrected email address error 
+Lauren 
+DeGrange & 
+Steve Clifton 
+24.01.2024 
+  
+ 
+Copyright 
+This document can be downloaded from the Natural England Access to Evidence 
+Catalogue.  
+It is published by Natural England under the Open Government Licence v3.0 for public 
+sector information. Natural England images and photographs are only available for non-
+commercial purposes. 
+© Natural England 2023 

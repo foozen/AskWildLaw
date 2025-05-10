@@ -1,0 +1,11 @@
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+*.log
+*.sqlite3
+*.zip
+*.pdf
+wildlaw_vectorstore/

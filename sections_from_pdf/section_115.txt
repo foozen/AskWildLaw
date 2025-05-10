@@ -1,0 +1,107 @@
+115
+Status: Point in time view as at 25/05/2020. This version of this Act contains provisions that are prospective.
+Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk
+editorial team to Wildlife and Countryside Act 1981. Any changes that have already been made by the
+team appear in the content and are referenced with annotations. (See end of Document for details)
+Marginal Citations
+M12 1862 c. 97.
+M13 1968 c. 27.
+M14 1991 c.57.
+M15 1974 c.40.
+M54 1966 c. 38.
+F228[F227
+27ZA
+Application of Part 1 to England and Wales
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+Textual Amendments
+F227 S. 27ZA inserted (E.W.) (14.7.2004) by The Wildlife and Countryside Act 1981(England and Wales)
+(Amendment) Regulations 2004 (S.I. 2004/1487), {reg. 5}
+F228 S. 27ZA ceases to have effect (W.) (2.8.2004) by virtue of The Wildlife and Countryside Act 1981
+(Amendment) (Wales) Regulations 2004 (S.I. 2004/1733), reg. 3(1)
+PART II
+NATURE CONSERVATION, COUNTRYSIDE AND NATIONAL PARKS
+X2[F229 Sites of special scientific interest and limestone pavements ]
+Editorial Information
+X2
+S. 27A and preceding heading repealed (1.10.2006) by Natural Environment and Rural Communities
+Act 2006 (c. 16), ss. 105(1)(2), 107, Sch. 11 para. 77, Sch. 12; S.I. 2006/2541, art. 2 and new s. 27AA
+and preceding heading inserted (1.10.2006) by Natural Environment and Rural Communities Act 2006
+(c. 16), ss. 105(1), 107, Sch. 11 para. 78; S.I. 2006/2541, art. 2
+Textual Amendments
+F229 S. 27AA and preceding heading inserted (1.10.2006) by Natural Environment and Rural Communities
+Act 2006 (c. 16), ss. 105(1), 107, Sch. 11 para. 78; S.I. 2006/2541, art. 2
+27A
+Construction of references to Nature Conservancy Council.
+F230. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F230 S. 27A and preceding heading repealed (1.10.2006) by Natural Environment and Rural Communities
+Act 2006 (c. 16), ss. 105(1)(2), 107, Sch. 11 para. 77, Sch. 12; S.I. 2006/2541, art. 2
+
+116
+Wildlife and Countryside Act 1981 (c. 69)
+Part II – Nature Conservation, Countryside and National Parks
+Document Generated: 2020-12-04
+Status: Point in time view as at 25/05/2020. This version of this Act contains provisions that are prospective.
+Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk
+editorial team to Wildlife and Countryside Act 1981. Any changes that have already been made by the
+team appear in the content and are referenced with annotations. (See end of Document for details)
+[F23127AAApplication of sections 28 to 34 in Wales
+[
+F232(1)]
+In relation to land in Wales, sections 28 to 34 (which relate to sites of special scientific
+interest and limestone pavements) have effect as if references to Natural England were
+references to [F233the Natural Resources Body for Wales and as if section 28D(2)(d)
+were omitted].
+[
+F234(2)
+Subsection (3) applies where—
+(a)
+any provision of sections 28 to 34 requires the Natural Resources Body for
+Wales to give a notification or notice to the local planning authority in whose
+area land is situated, and
+(b)
+all or part of the land is included in a strategic planning area designated under
+section 60D of the Planning and Compulsory Purchase Act 2004.
+(3) The Natural Resources Body for Wales must also give the notification or notice to the
+strategic planning panel for the strategic planning area.]]
+Textual Amendments
+F231 S. 27AA and preceding heading inserted (1.10.2006) by Natural Environment and Rural Communities
+Act 2006 (c. 16), ss. 105(1), 107, Sch. 11 para. 78; S.I. 2006/2541, art. 2
+F232 S. 27AA renumbered as s. 27AA(1) (E.W.) (6.9.2015 for specified purposes) by Planning (Wales) Act
+2015 (anaw 4), s. 58(2)(b)(4)(b), Sch. 2 para. 6(2)
+F233 Words in s. 27AA substituted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order
+2013 (S.I. 2013/755), art. 1(2), Sch. 2 para. 172 (with Sch. 7)
+F234 S. 27AA(2)(3) inserted (E.W.) (6.9.2015 for specified purposes) by Planning (Wales) Act 2015 (anaw
+4), s. 58(2)(b)(4)(b), Sch. 2 para. 6(3)
+[F235 28 Sites of special scientific interest. E+W
+(1) Where [F236Natural England] are of the opinion that any area of land is of special
+interest by reason of any of its flora, fauna, or geological or physiographical features,
+it shall be the duty of [F236Natural England] to notify that fact—
+(a)
+to the local planning authority [F237(if any)] in whose area the land is situated;
+(b)
+to every owner and occupier of any of that land; and
+(c)
+to the Secretary of State.
+[
+F238(1A)
+The reference in subsection (1) to land includes—
+(a)
+any land lying above mean low water mark;
+(b)
+any land covered by estuarial waters.
+(1B) Where the area of land to which a notification under subsection (1) relates includes
+land falling within subsection (1A)(a) or (b) (“area A”), it may also include land not
+falling within subsection (1A)(a) or (b) (“area B”) if—
+(a)
+area B adjoins area A, and
+(b)
+any of the conditions in subsection (1C) is satisfied.
+(1C) The conditions are—
+(a)
+that the flora, fauna or features leading to the notification of area A is or are
+also present in area B;
+
+Wildlife and Countryside Act 1981 (c. 69)
+Part II – Nature Conservation, Countryside and National Parks
+Document Generated: 2020-12-04

@@ -1,0 +1,119 @@
+119
+Status: Point in time view as at 25/05/2020. This version of this Act contains provisions that are prospective.
+Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk
+editorial team to Wildlife and Countryside Act 1981. Any changes that have already been made by the
+team appear in the content and are referenced with annotations. (See end of Document for details)
+Textual Amendments
+F885 S. 28 repealed (S.) (29.11.2004) by Nature Conservation (Scotland) Act 2004 (asp 6), ss. 57, 59, Sch. 7
+para. 4 (with transitional provisions and savings in Sch. 5 Pt. 2) (S.S.I. 2004/495), {art. 2}
+[F24428A Variation of notification under section 28.
+(1) At any time after notice has been given under section 28(5)(b) confirming a
+notification (with or without modifications), [F245Natural England] may by notice vary
+the matters specified or stated in the confirmed notification (whether by adding to
+them, changing them, or removing matter from them).
+(2) The area of land cannot be varied under this section.
+(3) [F245Natural England] shall give notice setting out the variation to—
+(a)
+the local planning authority [F246(if any)] in whose area the land is situated,
+(b)
+every owner and occupier of any of the land who in the opinion of the Council
+may be affected by the variation, and
+(c)
+the Secretary of State,
+and after service of a notice under paragraph (b) the notification under section 28(1)
+(b) shall have effect in its varied form.
+(4) Section 28(3) shall apply to such a notice as it applies to a notification under
+section 28(1).
+(5) Where a notice under subsection (3) has been given, [F245Natural England] may within
+the period of nine months beginning with the date the last of the owners and occupiers
+referred to in subsection (3)(b) was served with the notice either—
+(a)
+give notice to the persons mentioned in subsection (3) withdrawing the notice;
+or
+(b)
+give notice to them confirming the notice (with or without modifications).
+(6) A notice under subsection (3) shall cease to have effect—
+(a)
+on the giving of notice of its withdrawal under subsection (5)(a) to any of the
+persons mentioned in subsection (3); or
+(b)
+if not withdrawn or confirmed by notice under subsection (5) within the period
+of nine months referred to in that subsection, at the end of that period.
+(7) As from the time when there is served on the owner or occupier of any land a
+notice under subsection (5)(b) confirming a notice of variation with modifications, the
+notification under section 28(1)(b) shall have effect as so varied.
+(8) A local land charge existing by virtue of section 28(9) shall be varied in accordance
+with a notice under subsection (3) or (5)(b).]
+Textual Amendments
+F244 Ss. 28-28R substituted for s. 28 (E.W.) (30.1.2001) by 2000 c. 37, ss. 75(1), 103(2), Sch. 9 para. 1
+(with Sch. 11 paras. 1-17, 20)
+F245 Words in s. 28A substituted (1.10.2006) by Natural Environment and Rural Communities Act 2006
+(c. 16), ss. 105(1), 107, Sch. 11 para. 79; S.I. 2006/2541, art. 2
+
+120
+Wildlife and Countryside Act 1981 (c. 69)
+Part II – Nature Conservation, Countryside and National Parks
+Document Generated: 2020-12-04
+Status: Point in time view as at 25/05/2020. This version of this Act contains provisions that are prospective.
+Changes to legislation: There are outstanding changes not yet made by the legislation.gov.uk
+editorial team to Wildlife and Countryside Act 1981. Any changes that have already been made by the
+team appear in the content and are referenced with annotations. (See end of Document for details)
+F246 Words in s. 28A(3)(a) inserted (E.W.) (12.1.2010 for E., 12.12.2014 in so far as not already in force)
+by Marine and Coastal Access Act 2009 (c. 23), ss. 148, 324(2)(b)(ii), Sch. 13 para. 3; S.I. 2014/3088,
+art. 2(b)
+[F24728B Notification of additional land.
+(1) Where [F248 Natural England] are of the opinion that if land adjacent to a site of special
+scientific interest (“the extra land”) were combined with the site of special scientific
+interest (“the SSSI ”), the combined area of land would be of special interest by
+reason of any of its flora, fauna, or geological or physiographical features, [F248 Natural
+England] may decide to notify that fact.
+(2) If they do so decide, the persons whom they must notify are—
+(a)
+the local planning authority [F249(if any)] in whose area the extra land is
+situated;
+(b)
+every owner and occupier of any of that extra land; and
+(c)
+the Secretary of State.
+[
+F250(2A)
+The reference in subsection (1) to land includes—
+(a)
+any land lying above mean low water mark;
+(b)
+any land covered by estuarial waters.
+(2B) If any of the conditions in subsection (2C) is satisfied, the extra land may consist of
+or include an area of land not falling within subsection (2A)(a) or (b).
+(2C) The conditions are—
+(a)
+that the flora, fauna or features that led to the notification of the SSSI is or
+are also present in the area of the extra land not falling within subsection (2A)
+(a) or (b);
+(b)
+that the notification of the SSSI is by reason of any flora or fauna which are
+dependent (wholly or in part) on anything which takes place in, or is present
+in, that area;
+(c)
+that, without the inclusion of that area, the identification of the boundary
+of the SSSI (either in the notification or on the ground for the purposes of
+exercising functions in relation to it) would be impossible or impracticable.]
+(3) No [F251notification under subsection (2)] may be given until after notice has
+been given under section 28(5)(b) confirming (with or without modifications) the
+notification under section 28(1) relating to the SSSI.
+(4) Subsections (2) and (3) of section 28 shall apply for the purposes of this section as
+they apply for the purposes of that section.
+(5) A notification under subsection (2)(b) shall also specify—
+(a)
+the area of land constituting the SSSI;
+(b)
+what (as at the date of the notification under subsection (2)(b)) is specified
+or contained in the notification under section 28(1)(b) relating to the SSSI by
+virtue of section 28(4); and
+(c)
+the reasons why [F248Natural England] is of the opinion referred to in
+subsection (1).
+(6) In addition, the notification under subsection (2)(b) shall include a statement—
+
+Wildlife and Countryside Act 1981 (c. 69)
+Part II – Nature Conservation, Countryside and National Parks
+Document Generated: 2020-12-04
