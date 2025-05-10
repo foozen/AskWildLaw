@@ -23,7 +23,7 @@ for file in Path("sections_from_pdf").rglob("*.txt"):
     loader = TextLoader(str(file), encoding="utf-8")
     docs.extend(loader.load())
 
-    vectorstore = FAISS.from_documents(docs, OpenAIEmbeddings())
+    vectorstore = FAISS.from_documents(docs, OpenAIEmbeddings(openai_api_key=st.secrets["OPENAI_API_KEY"]))
     retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
     qa_chain = RetrievalQA.from_chain_type(
         llm=ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0.3),
