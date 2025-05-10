@@ -1,41 +1,33 @@
 import streamlit as st
 import os
-# from dotenv import load_dotenv
 import openai
-import zipfile
-import os
 
-# Unzip vectorstore if not already extracted
-if not os.path.exists("wildlaw_vectorstore"):
-    with zipfile.ZipFile("wildlaw_vectorstore.zip", "r") as zip_ref:
-        zip_ref.extractall("wildlaw_vectorstore")
-
+from langchain_community.document_loaders import DirectoryLoader
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain.chains import RetrievalQA
 from langchain.chat_models import ChatOpenAI
-from langchain_community.document_loaders import DirectoryLoader, TextLoader
 
-# Load environment variables
-# load_dotenv()
-import streamlit as st
+# Load OpenAI key from Streamlit secrets
 openai.api_key = st.secrets["OPENAI_API_KEY"]
 
-# Load vectorstore
-vectorstore = FAISS.load_local(
-    "wildlaw_vectorstore",
-    OpenAIEmbeddings(),
-    allow_dangerous_deserialization=True
-)
-retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
+# ─────────────────────────────────────
+# Vectorstore: Rebuild from local .txt files
+# ─────────────────────────────────────
+with st.spinner("Loading guidance and building search index..."):
+    loader = DirectoryLoader("sections_from_pdf", glob="**/*.txt")
+    docs = loader.load()
+    vectorstore = FAISS.from_documents(docs, OpenAIEmbeddings())
+    retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
+    qa_chain = RetrievalQA.from_chain_type(
+        llm=ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0.3),
+        retriever=retriever,
+        return_source_documents=True
+    )
 
-qa_chain = RetrievalQA.from_chain_type(
-    llm=ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0.3),
-    retriever=retriever,
-    return_source_documents=True
-)
-
-# Streamlit UI setup
+# ─────────────────────────────────────
+# Streamlit UI
+# ─────────────────────────────────────
 st.set_page_config(page_title="Ask WildLaw", layout="centered")
 
 if "tier" not in st.session_state:
@@ -52,7 +44,7 @@ with st.expander("🔐 Log in to your account"):
     if access_level != "Select...":
         st.session_state["tier"] = access_level.lower().replace(" ", "_")
 
-# Links to other pages
+# Links
 st.markdown(
     "<small>New here? <a href='./Product' target='_self'>Learn what Ask WildLaw does</a> | "
     "<a href='./Pricing' target='_self'>View plans and pricing</a></small>",
@@ -67,12 +59,10 @@ if not st.session_state["tier"]:
 question = st.text_input("What would you like to ask?")
 postcode = st.text_input("Enter your postcode (optional)")
 
-# Legal check mode (Pro users only)
-legal_check = False
-if st.session_state["tier"] == "pro_user":
-    legal_check = st.checkbox("🔍 Legal Check Mode (Quote exact law when possible)")
+# Legal check toggle
+legal_check = st.checkbox("🔍 Legal Check Mode (Quote exact law when possible)") if st.session_state["tier"] == "pro_user" else False
 
-# Submit button
+# Submit question
 if st.button("Submit your question"):
     if not question.strip():
         st.warning("Please enter a question.")
@@ -84,26 +74,24 @@ if st.button("Submit your question"):
                 f"You are a legal assistant for Natural England. A landowner has asked: '{question}' "
                 f"with postcode '{postcode}'. Use only the official guidance and law provided to answer. "
             )
-            if legal_check:
-                system_prompt += (
-                    "Quote directly from the documents whenever possible. "
-                    "Use clear, formal language and avoid making assumptions beyond the source content. "
-                    "If unsure, state that clearly and suggest who to contact."
-                )
-            else:
-                system_prompt += (
-                    "Summarise the key points clearly and helpfully. Provide practical next steps, and if unclear, "
-                    "suggest what the user should ask or check with the local authority or Natural England."
-                )
+            system_prompt += (
+                "Quote directly from the documents whenever possible. "
+                "Use clear, formal language and avoid making assumptions beyond the source content. "
+                "If unsure, state that clearly and suggest who to contact."
+            ) if legal_check else (
+                "Summarise the key points clearly and helpfully. Provide practical next steps, and if unclear, "
+                "suggest what the user should ask or check with the local authority or Natural England."
+            )
 
             try:
                 result = qa_chain(system_prompt)
                 st.session_state["submitted"] = True
 
+                # Answer
                 st.markdown("### 🧾 Answer:")
                 st.markdown(result["result"])
 
-                # 👍 Was this helpful?
+                # Feedback
                 st.markdown("### 👍 Was this answer helpful?")
                 col1, col2 = st.columns(2)
                 with col1:
@@ -113,7 +101,7 @@ if st.button("Submit your question"):
                     if st.button("👎 No"):
                         st.warning("Thanks — we’ll use this to improve future answers.")
 
-                # 📚 Sources
+                # Sources
                 st.markdown("### 📚 Sources used:")
                 used_sources = set()
                 for doc in result["source_documents"]:
