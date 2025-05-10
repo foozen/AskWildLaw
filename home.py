@@ -15,8 +15,14 @@ openai.api_key = st.secrets["OPENAI_API_KEY"]
 # Vectorstore: Rebuild from local .txt files
 # ─────────────────────────────────────
 with st.spinner("Loading guidance and building search index..."):
-    loader = DirectoryLoader("sections_from_pdf", glob="**/*.txt")
-    docs = loader.load()
+    from langchain_community.document_loaders import TextLoader
+from pathlib import Path
+
+docs = []
+for file in Path("sections_from_pdf").rglob("*.txt"):
+    loader = TextLoader(str(file), encoding="utf-8")
+    docs.extend(loader.load())
+
     vectorstore = FAISS.from_documents(docs, OpenAIEmbeddings())
     retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
     qa_chain = RetrievalQA.from_chain_type(
