@@ -4,6 +4,8 @@ import zipfile
 import openai
 import csv
 from datetime import datetime
+import base64
+import requests
 
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OpenAIEmbeddings
@@ -11,28 +13,66 @@ from langchain.chains import RetrievalQA
 from langchain.chat_models import ChatOpenAI
 
 # ─────────────────────────────────────────────
-# Set up Streamlit app
+# GitHub logging helper
+# ─────────────────────────────────────────────
+def push_log_to_github(filepath):
+    try:
+        with open(filepath, "rb") as f:
+            content = f.read()
+        b64_content = base64.b64encode(content).decode()
+
+        repo = st.secrets["GITHUB_REPO"]
+        token = st.secrets["GITHUB_TOKEN"]
+        api_url = f"https://api.github.com/repos/{repo}/contents/{filepath}"
+
+        # Check if file already exists
+        get_response = requests.get(api_url, headers={
+            "Authorization": f"token {token}",
+            "Accept": "application/vnd.github.v3+json"
+        })
+        sha = get_response.json().get("sha", None)
+
+        payload = {
+            "message": "🔄 Update qa_log.csv",
+            "content": b64_content,
+            "branch": "main"
+        }
+        if sha:
+            payload["sha"] = sha
+
+        response = requests.put(api_url, headers={
+            "Authorization": f"token {token}",
+            "Accept": "application/vnd.github.v3+json"
+        }, json=payload)
+
+        if response.status_code in [200, 201]:
+            st.success("✅ Log pushed to GitHub.")
+        else:
+            st.warning(f"⚠️ GitHub push failed: {response.json().get('message')}")
+    except Exception as e:
+        st.warning(f"⚠️ GitHub logging failed: {e}")
+
+# ─────────────────────────────────────────────
+# App Setup
 # ─────────────────────────────────────────────
 st.set_page_config(page_title="Ask WildLaw", layout="centered")
 st.title("🌿 Ask WildLaw")
 st.markdown("Your AI assistant for UK environmental law and guidance.")
 
-# Set OpenAI API key
+# Load OpenAI key
 try:
     openai.api_key = st.secrets["OPENAI_API_KEY"]
 except Exception:
-    st.error("❌ OpenAI API key not found. Please set it in Streamlit Secrets.")
+    st.error("❌ OpenAI API key not found in secrets.")
     st.stop()
 
-# ─────────────────────────────────────────────
-# Load prebuilt FAISS vectorstore (no re-embedding)
-# ─────────────────────────────────────────────
+# Load vectorstore
 if not os.path.exists("wildlaw_vectorstore"):
     if os.path.exists("wildlaw_vectorstore.zip"):
         with zipfile.ZipFile("wildlaw_vectorstore.zip", "r") as zip_ref:
             zip_ref.extractall("wildlaw_vectorstore")
     else:
-        st.error("❌ wildlaw_vectorstore not found. Please upload .zip or folder.")
+        st.error("❌ wildlaw_vectorstore.zip not found.")
         st.stop()
 
 try:
@@ -53,7 +93,7 @@ qa_chain = RetrievalQA.from_chain_type(
 )
 
 # ─────────────────────────────────────────────
-# Simulated login + session state
+# Login & Session
 # ─────────────────────────────────────────────
 if "tier" not in st.session_state:
     st.session_state["tier"] = None
@@ -76,7 +116,7 @@ if not st.session_state["tier"]:
     st.stop()
 
 # ─────────────────────────────────────────────
-# User inputs
+# Inputs
 # ─────────────────────────────────────────────
 question = st.text_input("What would you like to ask?")
 postcode = st.text_input("Enter your postcode (optional)")
@@ -86,13 +126,13 @@ if st.session_state["tier"] == "pro_user":
     legal_check = st.checkbox("🔍 Legal Check Mode (Quote exact law when possible)")
 
 # ─────────────────────────────────────────────
-# Submit + run retrieval
+# Submit
 # ─────────────────────────────────────────────
 if st.button("Submit your question"):
     if not question.strip():
         st.warning("Please enter a question.")
     elif st.session_state["tier"] == "free_user" and st.session_state["submitted"]:
-        st.error("🚫 Free users can only ask one question per day. Upgrade to Pro for full access.")
+        st.error("🚫 Free users can only ask one question per day.")
     else:
         with st.spinner("Searching the law and guidance..."):
             try:
@@ -115,9 +155,7 @@ if st.button("Submit your question"):
                 result = qa_chain(system_prompt)
                 st.session_state["submitted"] = True
 
-                # ──────────────
-                # Show output
-                # ──────────────
+                # Output
                 st.markdown("### 🧾 Answer:")
                 st.markdown(result["result"])
 
@@ -138,9 +176,7 @@ if st.button("Submit your question"):
                         st.markdown(f"- `{src}`")
                         used_sources.add(src)
 
-                # ──────────────
-                # CSV logging
-                # ──────────────
+                # Logging
                 log_path = "qa_log.csv"
                 log_entry = {
                     "timestamp": datetime.now().isoformat(),
@@ -157,5 +193,8 @@ if st.button("Submit your question"):
                         writer.writeheader()
                     writer.writerow(log_entry)
 
+                # Push to GitHub
+                push_log_to_github(log_path)
+
             except Exception as e:
-                st.error(f"❌ An error occurred while processing your question: {e}")
+                st.error(f"❌ Something went wrong: {e}")
