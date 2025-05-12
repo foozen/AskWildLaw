@@ -2,7 +2,9 @@ import streamlit as st
 import os
 import openai
 import zipfile
+import csv
 
+from datetime import datetime
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain.chains import RetrievalQA
@@ -47,6 +49,24 @@ qa_chain = RetrievalQA.from_chain_type(
     retriever=retriever,
     return_source_documents=True
 )
+
+# Log the question, answer, timestamp, and postcode
+log_path = "qa_log.csv"
+log_entry = {
+    "timestamp": datetime.now().isoformat(),
+    "user_type": st.session_state["tier"],
+    "postcode": postcode,
+    "question": question,
+    "answer": result["result"]
+}
+
+file_exists = os.path.exists(log_path)
+with open(log_path, "a", newline="", encoding="utf-8") as csvfile:
+    writer = csv.DictWriter(csvfile, fieldnames=log_entry.keys())
+    if not file_exists:
+        writer.writeheader()
+    writer.writerow(log_entry)
+
 
 # Simulated login
 if "tier" not in st.session_state:
