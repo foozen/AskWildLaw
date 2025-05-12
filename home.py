@@ -1,38 +1,40 @@
 import streamlit as st
 import os
-import openai
 import zipfile
+import openai
 import csv
-
 from datetime import datetime
+
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain.chains import RetrievalQA
 from langchain.chat_models import ChatOpenAI
 
+# ─────────────────────────────────────────────
+# Set up Streamlit app
+# ─────────────────────────────────────────────
 st.set_page_config(page_title="Ask WildLaw", layout="centered")
-
 st.title("🌿 Ask WildLaw")
 st.markdown("Your AI assistant for UK environmental law and guidance.")
 
-# Ensure OPENAI_API_KEY exists
+# Set OpenAI API key
 try:
     openai.api_key = st.secrets["OPENAI_API_KEY"]
-except Exception as e:
-    st.error("🔐 OpenAI API key not found. Please set it in Streamlit Secrets.")
+except Exception:
+    st.error("❌ OpenAI API key not found. Please set it in Streamlit Secrets.")
     st.stop()
 
-# Extract vectorstore zip if not already done
+# ─────────────────────────────────────────────
+# Load prebuilt FAISS vectorstore (no re-embedding)
+# ─────────────────────────────────────────────
 if not os.path.exists("wildlaw_vectorstore"):
     if os.path.exists("wildlaw_vectorstore.zip"):
         with zipfile.ZipFile("wildlaw_vectorstore.zip", "r") as zip_ref:
             zip_ref.extractall("wildlaw_vectorstore")
-        st.success("✅ Vectorstore unzipped.")
     else:
-        st.error("❌ Vectorstore not found.")
+        st.error("❌ wildlaw_vectorstore not found. Please upload .zip or folder.")
         st.stop()
 
-# Try to load vectorstore
 try:
     vectorstore = FAISS.load_local(
         "wildlaw_vectorstore",
@@ -40,7 +42,7 @@ try:
         allow_dangerous_deserialization=True
     )
 except Exception as e:
-    st.error(f"💥 Failed to load vectorstore: {e}")
+    st.error(f"❌ Failed to load vectorstore: {e}")
     st.stop()
 
 retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
@@ -50,25 +52,9 @@ qa_chain = RetrievalQA.from_chain_type(
     return_source_documents=True
 )
 
-# Log the question, answer, timestamp, and postcode
-log_path = "qa_log.csv"
-log_entry = {
-    "timestamp": datetime.now().isoformat(),
-    "user_type": st.session_state["tier"],
-    "postcode": postcode,
-    "question": question,
-    "answer": result["result"]
-}
-
-file_exists = os.path.exists(log_path)
-with open(log_path, "a", newline="", encoding="utf-8") as csvfile:
-    writer = csv.DictWriter(csvfile, fieldnames=log_entry.keys())
-    if not file_exists:
-        writer.writeheader()
-    writer.writerow(log_entry)
-
-
-# Simulated login
+# ─────────────────────────────────────────────
+# Simulated login + session state
+# ─────────────────────────────────────────────
 if "tier" not in st.session_state:
     st.session_state["tier"] = None
 if "submitted" not in st.session_state:
@@ -79,12 +65,19 @@ with st.expander("🔐 Log in to your account"):
     if access_level != "Select...":
         st.session_state["tier"] = access_level.lower().replace(" ", "_")
 
-# Redirect if not logged in
+st.markdown(
+    "<small>New here? <a href='./Product' target='_self'>Learn what Ask WildLaw does</a> | "
+    "<a href='./Pricing' target='_self'>View plans and pricing</a></small>",
+    unsafe_allow_html=True
+)
+
 if not st.session_state["tier"]:
     st.info("Please log in to begin.")
     st.stop()
 
-# User input section
+# ─────────────────────────────────────────────
+# User inputs
+# ─────────────────────────────────────────────
 question = st.text_input("What would you like to ask?")
 postcode = st.text_input("Enter your postcode (optional)")
 
@@ -92,6 +85,9 @@ legal_check = False
 if st.session_state["tier"] == "pro_user":
     legal_check = st.checkbox("🔍 Legal Check Mode (Quote exact law when possible)")
 
+# ─────────────────────────────────────────────
+# Submit + run retrieval
+# ─────────────────────────────────────────────
 if st.button("Submit your question"):
     if not question.strip():
         st.warning("Please enter a question.")
@@ -119,6 +115,9 @@ if st.button("Submit your question"):
                 result = qa_chain(system_prompt)
                 st.session_state["submitted"] = True
 
+                # ──────────────
+                # Show output
+                # ──────────────
                 st.markdown("### 🧾 Answer:")
                 st.markdown(result["result"])
 
@@ -138,6 +137,25 @@ if st.button("Submit your question"):
                     if src not in used_sources:
                         st.markdown(f"- `{src}`")
                         used_sources.add(src)
+
+                # ──────────────
+                # CSV logging
+                # ──────────────
+                log_path = "qa_log.csv"
+                log_entry = {
+                    "timestamp": datetime.now().isoformat(),
+                    "user_type": st.session_state.get("tier", "unknown"),
+                    "postcode": postcode,
+                    "question": question,
+                    "answer": result["result"]
+                }
+
+                file_exists = os.path.exists(log_path)
+                with open(log_path, "a", newline="", encoding="utf-8") as csvfile:
+                    writer = csv.DictWriter(csvfile, fieldnames=log_entry.keys())
+                    if not file_exists:
+                        writer.writeheader()
+                    writer.writerow(log_entry)
 
             except Exception as e:
                 st.error(f"❌ An error occurred while processing your question: {e}")
