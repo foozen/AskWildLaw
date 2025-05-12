@@ -1,43 +1,54 @@
 import streamlit as st
 import os
 import openai
+import zipfile
+
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain.chains import RetrievalQA
 from langchain.chat_models import ChatOpenAI
 
-# ─────────────────────────────────────────────
-# App setup
-# ─────────────────────────────────────────────
 st.set_page_config(page_title="Ask WildLaw", layout="centered")
+
 st.title("🌿 Ask WildLaw")
 st.markdown("Your AI assistant for UK environmental law and guidance.")
 
-# Set OpenAI API key from secrets
-openai.api_key = st.secrets["OPENAI_API_KEY"]
+# Ensure OPENAI_API_KEY exists
+try:
+    openai.api_key = st.secrets["OPENAI_API_KEY"]
+except Exception as e:
+    st.error("🔐 OpenAI API key not found. Please set it in Streamlit Secrets.")
+    st.stop()
 
-# ─────────────────────────────────────────────
-# Load prebuilt vectorstore (no embedding cost)
-# ─────────────────────────────────────────────
+# Extract vectorstore zip if not already done
+if not os.path.exists("wildlaw_vectorstore"):
+    if os.path.exists("wildlaw_vectorstore.zip"):
+        with zipfile.ZipFile("wildlaw_vectorstore.zip", "r") as zip_ref:
+            zip_ref.extractall("wildlaw_vectorstore")
+        st.success("✅ Vectorstore unzipped.")
+    else:
+        st.error("❌ Vectorstore not found.")
+        st.stop()
+
+# Try to load vectorstore
 try:
     vectorstore = FAISS.load_local(
         "wildlaw_vectorstore",
-        OpenAIEmbeddings(),
+        OpenAIEmbeddings(openai_api_key=openai.api_key),
         allow_dangerous_deserialization=True
     )
-    retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
-    qa_chain = RetrievalQA.from_chain_type(
-        llm=ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0.3),
-        retriever=retriever,
-        return_source_documents=True
-    )
 except Exception as e:
-    st.error("❌ Failed to load vectorstore. Please check the repo or file format.")
+    st.error(f"💥 Failed to load vectorstore: {e}")
     st.stop()
 
-# ─────────────────────────────────────────────
-# Session state and login
-# ─────────────────────────────────────────────
+retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
+qa_chain = RetrievalQA.from_chain_type(
+    llm=ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0.3),
+    retriever=retriever,
+    return_source_documents=True
+)
+
+# Simulated login
 if "tier" not in st.session_state:
     st.session_state["tier"] = None
 if "submitted" not in st.session_state:
@@ -48,24 +59,15 @@ with st.expander("🔐 Log in to your account"):
     if access_level != "Select...":
         st.session_state["tier"] = access_level.lower().replace(" ", "_")
 
-# Links
-st.markdown(
-    "<small>New here? <a href='./Product' target='_self'>Learn what Ask WildLaw does</a> | "
-    "<a href='./Pricing' target='_self'>View plans and pricing</a></small>",
-    unsafe_allow_html=True
-)
-
+# Redirect if not logged in
 if not st.session_state["tier"]:
     st.info("Please log in to begin.")
     st.stop()
 
-# ─────────────────────────────────────────────
-# Question form
-# ─────────────────────────────────────────────
+# User input section
 question = st.text_input("What would you like to ask?")
 postcode = st.text_input("Enter your postcode (optional)")
 
-# Legal check (Pro users only)
 legal_check = False
 if st.session_state["tier"] == "pro_user":
     legal_check = st.checkbox("🔍 Legal Check Mode (Quote exact law when possible)")
@@ -74,7 +76,7 @@ if st.button("Submit your question"):
     if not question.strip():
         st.warning("Please enter a question.")
     elif st.session_state["tier"] == "free_user" and st.session_state["submitted"]:
-        st.error("🚫 Free users can only ask one question per day. Upgrade to Pro for full access. [View plans](./Pricing)", icon="🚫")
+        st.error("🚫 Free users can only ask one question per day. Upgrade to Pro for full access.")
     else:
         with st.spinner("Searching the law and guidance..."):
             try:
@@ -118,4 +120,4 @@ if st.button("Submit your question"):
                         used_sources.add(src)
 
             except Exception as e:
-                st.error(f"Something went wrong: {e}")
+                st.error(f"❌ An error occurred while processing your question: {e}")
